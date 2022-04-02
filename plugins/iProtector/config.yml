@@ -1,0 +1,27 @@
+# Arquivo de configuração do iProtector by LDX;
+
+# Configurações para áreas desprotegidas em mundos sem configurações específicas:
+Default:
+
+  # Evite que os jogadores se machuquem?
+  God: false
+
+  # Mantenha os jogadores a editar o mundo?
+  Edit: false
+
+  # Mantenha os jogadores tocando blocos e ativando coisas como baús?
+  Touch: false
+
+# Configurações para áreas desprotegidas em mundos individuais:
+Worlds:
+
+  world:
+
+    # Evite que os jogadores se machuquem?
+    God: false
+
+    # Mantenha os jogadores a editar o mundo?
+    Edit: false
+
+    # Mantenha os jogadores tocando blocos e ativando coisas como baús?
+    Touch: false

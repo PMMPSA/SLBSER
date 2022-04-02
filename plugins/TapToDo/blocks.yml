@@ -1,0 +1,22 @@
+---
+version: 1
+blocks:
+- x: -10
+  "y": 73
+  z: -10
+  level: bug
+  commands:
+  - sh กุญเเจ
+- x: -20
+  "y": 73
+  z: -5
+  level: bug
+  commands:
+  - myapi 1
+- x: 24
+  "y": 70
+  z: 2
+  level: bug
+  commands:
+  - trem list
+...

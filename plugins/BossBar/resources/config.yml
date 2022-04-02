@@ -1,0 +1,48 @@
+---
+changing-messages:
+ - "{5%}§l§c『 §7Ｍ §c』"
+ - "{10%}§l§6『 §7Ｍ§fｅ §6』"
+ - "{15%}§l§e『 §7Ｍ§fｅ§eＬ §e』"
+ - "{20%}§l§a『 §7Ｍ§fｅ§eＬ§6ｏ §a』"
+ - "{25%}§l§b『 §7Ｍ§fｅ§eＬ§6ｏ§aｎ §b』"
+ - "{30%}§l§1『 §7Ｍ§fｅ§eＬ§6ｏ§aｎ§dｙ §1』"
+ - "{35%}§l§9『 §7Ｍ§fｅ§eＬ§6ｏ§aｎ§dｙ§bＰ §9』"
+ - "{40%}§l§4『 §7Ｍ§fｅ§eＬ§6ｏ§aｎ§dｙ§bＰ§3Ｅ §4』"
+ - "{45%}§l§fSkyBlock - PVP"
+ - "{50%}§l§4S§fkyBlock - PVP"
+ - "{55%}§l§fS§4k§fyBlock - PVP"
+ - "{60%}§l§fSk§4y§fBlock - PVP"
+ - "{65%}§l§fSky§4B§flock - PVP"
+ - "{70%}§l§fSkyB§4l§fock - PVP"
+ - "{75%}§l§fSkyBl§4o§fck - PVP"
+ - "{80%}§l§fSkyBlo§4c§fk - PVP"
+ - "{85%}§l§fSkyBloc§4k§f - PVP"
+ - "{90%}§l§fSkyBlock §4-§f PVP"
+ - "{91%}§l§fSkyBlock - §4P§fVP"
+ - "{92%}§l§fSkyBlock - P§4V§fP"
+ - "{93%}§l§fSkyBlock - PV§4P"
+ - "{94%}§l§fSkyBlock - PVP"
+ - "{95%}§e§lเติมเงิน §cX§b3 §f| §618§f/§603§f/§662 §c➡ §626§f/§603§f/§662"
+ - "{96%}§e§lเติมเงิน §cX§b3 §f| §f18§6/§f03§6/§f62 §4➡ §f26§6/§f03§6/§f62"
+ - "{97%}§e§lเติมเงิน §cX§b3 §f| §618§f/§603§f/§662 §c➡ §626§f/§603§f/§662"
+ - "{98%}§e§lเติมเงิน §cX§b3 §f| §f18§6/§f03§6/§f62 §4➡ §f26§6/§f03§6/§f62"
+ - "{99%}§e§lเติมเงิน §cX§b3 §f| §618§f/§603§f/§662 §c➡ §626§f/§603§f/§662"
+ - "{100%}§e§lเติมเงิน §cX§b3 §f| §f18§6/§f03§6/§f62 §4➡ §f26§6/§f03§6/§f62"
+# How fast the messages switch in seconds
+change-speed: 1
+# This changes the behaviour for multiple worlds
+# Mode 0: see the bar in every world
+# Mode 1: see ONLY in the worlds in the array
+# Mode 2: DON'T see in worlds in the arrayhi
+mode: 0
+# Worlds: use the worldname, seperate with " , "
+# Example: Mode 0, worlds: ["world", "lobby", "survival"]
+worlds: []
+#Formatting strings:
+#{display_name}, {name}, {world}, {x}, {y}, {z}, {level_players}, {server_players}, {server_max_players},
+#{hour}, {minute}, {second}
+#{BLACK}, {DARK_BLUE}, {DARK_GREEN}, {DARK_AQUA}, {DARK_RED}, {DARK_PURPLE}, {GOLD}, {GRAY},
+#{DARK_GRAY}, {BLUE}, {GREEN}, {AQUA}, {RED}, {LIGHT_PURPLE}, {YELLOW}, {WHITE}, {OBFUSCATED}, {BOLD}
+#{STRIKETHROUGH}, {UNDERLINE}, {ITALIC}, {RESET}
+#&0, &1, &2, &3, &4, &5, &6, &7, &8, &9, &a, &b, &c, &d, &e, &f, &k, &l, &m, &n, &o, &r
+...

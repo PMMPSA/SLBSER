@@ -1,0 +1,4 @@
+# Updated 03/17/19 21:36 by GenisysPro 1.1.0
+# victim name | ban date | banned by | banned until | reason
+
+223.24.175.60|2019-03-17 21:36:32 +0600|BANKRTDV|Forever|Banned by an operator.

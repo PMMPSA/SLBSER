@@ -1,0 +1,377 @@
+
+# PureChat by 64FF00 (xktiverz@gmail.com, @64ff00 for Twitter)
+
+---
+
+# PureChat version string
+# - string
+version: "1.4.0-BETA-04"
+
+# Set default factions plugin for PureChat
+# - FactionsPro / XeviousPE-Factions (§l§9-§8]§b>§7[§cXevious§aTestSrv§7]§b<§8[§9-) / null
+default-factions-plugin: FactionsPro
+
+# Enable this if you want to use per-world chat formats / per-world nametags for players
+# - true / false
+enable-multiworld-chat: false
+
+# Please check if you have all PurePerms groups in your server here
+
+# &0: Black, &1: Dark Blue, &2: Dark Green, &3: Dark Aqua, &4: Dark Red, &5: Dark Purple, &6: Gold, &7: Gray, &8: Dark Gray, &9: Blue
+# &a: Green, &b: Aqua, &c: Red, &d: Light Purple, &e: Yellow, &f: White
+# &k: Obfuscated, &l: Bold, &m: Strikethrough, &n: Underline, &o: Italic, &r: Reset
+
+# Available PureChat tags: {display_name}, {msg}, {fac_name}, {fac_rank}, {prefix}, {suffix}, {world}
+groups:
+  Guest:
+    chat: "§l§b[§aช§fา§aว§fบ§a้§fา§aน§b] §e[§aC§f.§c{fac_name}§e] §f{display_name}
+      §c✝§e{msg}"
+    nametag: "§l§b[§aช§fา§aว§fบ§a้§fา§aน§b]\n§f{display_name}\n§bC§f.§e[§f{fac_name}§e]"
+    worlds: []
+  Alv1:
+    chat: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §6[§b1§6] §4[§bC§f.§d{fac_name}§4] §f: §7[§f{display_name}§7]
+      §e▶§a{msg}"
+    nametag: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a•\n§6[§b1§6]\n§4[§bC§f.§d{fac_name}§4]\n§7[§f{display_name}§7]"
+    worlds: []
+  Alv2:
+    chat: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §6[§b2§6] §4[§bC§f.§d{fac_name}§4] §f: §7[§f{display_name}§7]
+      §e▶§a{msg}"
+    nametag: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a•\n§6[§b2§6]\n§4[§bC§f.§d{fac_name}§4]\n§7[§f{display_name}§7]"
+    worlds: []
+  Alv3:
+    chat: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §6[§b3§6] §4[§bC§f.§d{fac_name}§4] §f: §7[§f{display_name}§7]
+      §e▶§a{msg}"
+    nametag: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a•\n§6[§b3§6]\n§4[§bC§f.§d{fac_name}§4]\n§7[§f{display_name}§7]"
+    worlds: 
+  Alv4:
+    chat: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §6[§b4§6] §4[§bC§f.§d{fac_name}§4] §f: §7[§f{display_name}§7]
+      §e▶§a{msg}"
+    nametag: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a•\n§6[§b4§6]\n§4[§bC§f.§d{fac_name}§4]\n§7[§f{display_name}§7]"
+    worlds: []
+  Alv5:
+    chat: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §6[§b5§6] §4[§bC§f.§d{fac_name}§4] §f: §7[§f{display_name}§7]
+      §e▶§a{msg}"
+    nametag: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a•\n§6[§b5§6]\n§4[§bC§f.§d{fac_name}§4]\n§7[§f{display_name}§7]"
+    worlds: []
+  Alv6:
+    chat: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §6[§b6§6] §4[§bC§f.§d{fac_name}§4] §f: §7[§f{display_name}§7]
+      §e▶§a{msg}"
+    nametag: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a•\n§6[§b6§6]\n§4[§bC§f.§d{fac_name}§4]\n§7[§f{display_name}§7]"
+    worlds: []
+  Alv7:
+    chat: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §6[§b7§6] §4[§bC§f.§d{fac_name}§4] §f: §7[§f{display_name}§7]
+      §e▶§a{msg}"
+    nametag: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a•\n§6[§b7§6]\n§4[§bC§f.§d{fac_name}§4]\n§7[§f{display_name}§7]"
+    worlds: []
+  Alv8:
+    chat: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §6[§b8§6] §4[§bC§f.§d{fac_name}§4] §f: §7[§f{display_name}§7]
+      §e▶§a{msg}"
+    nametag: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a•\n§6[§b8§6]\n§4[§bC§f.§d{fac_name}§4]\n§7[§f{display_name}§7]"
+    worlds: []
+  Alv9:
+    chat: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §6[§b9§6] §4[§bC§f.§d{fac_name}§4] §f: §7[§f{display_name}§7]
+      §e▶§a{msg}"
+    nametag: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a•\n§6[§b9§6]\n§4[§bC§f.§d{fac_name}§4]\n§7[§f{display_name}§7]"
+    worlds: []
+  Alv10:
+    chat: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §6[§b10§6] §4[§bC§f.§d{fac_name}§4] §f: §7[§f{display_name}§7]
+      §e▶§a{msg}"
+    nametag: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a•\n§6[§b10§6]\n§4[§bC§f.§d{fac_name}§4]\n§7[§f{display_name}§7]"
+    worlds: []
+  AlvMax:
+    chat: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §6[§bMax§6] §4[§bC§f.§d{fac_name}§4] §f: §7[§f{display_name}§7]
+      §e▶§a{msg}"
+    nametag: "§l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a•\n§6[§bMax§6]\n§4[§bC§f.§d{fac_name}§4]\n§7[§f{display_name}§7]"
+    worlds: []
+  Blv1:
+    chat: "§d§l❤§bH§fE§eR§6O§d❤ §e[§a1§e] §c[§bC§f.§d{fac_name}§c] §f: §6[§f{display_name}§6]
+      §e❣§a{msg}"
+    nametag: "§d§l❤§bH§fE§eR§6O§d❤\n§e[§a1§e]\n§c[§bC§f.§d{fac_name}§c]\n§6[§f{display_name}§6]\n§b§lนักบุญ"
+    worlds: []
+  Blv2:
+    chat: "§d§l❤§bH§fE§eR§6O§d❤ §e[§a2§e] §c[§bC§f.§d{fac_name}§c] §f: §6[§f{display_name}§6]
+      §e❣§a{msg}"
+    nametag: "§d§l❤§bH§fE§eR§6O§d❤\n§e[§a2§e]\n§c[§bC§f.§d{fac_name}§c]\n§6[§f{display_name}§6]\n§b§lนักบุญ"
+    worlds: []
+  Blv3:
+    chat: "§d§l❤§bH§fE§eR§6O§d❤ §e[§a3§e] §c[§bC§f.§d{fac_name}§c] §f: §6[§f{display_name}§6]
+      §e❣§a{msg}"
+    nametag: "§d§l❤§bH§fE§eR§6O§d❤\n§e[§a3§e]\n§c[§bC§f.§d{fac_name}§c]\n§6[§f{display_name}§6]\n§b§lนักบุญ"
+    worlds: []
+  Blv4:
+    chat: "§d§l❤§bH§fE§eR§6O§d❤ §e[§a4§e] §c[§bC§f.§d{fac_name}§c] §f: §6[§f{display_name}§6]
+      §e❣§a{msg}"
+    nametag: "§d§l❤§bH§fE§eR§6O§d❤\n§e[§a4§e]\n§c[§bC§f.§d{fac_name}§c]\n§6[§f{display_name}§6]\n§b§lนักบุญ"
+    worlds: []
+  Blv5:
+    chat: "§d§l❤§bH§fE§eR§6O§d❤ §e[§a5§e] §c[§bC§f.§d{fac_name}§c] §f: §6[§f{display_name}§6]
+      §e❣§a{msg}"
+    nametag: "§d§l❤§bH§fE§eR§6O§d❤\n§e[§a5§e]\n§c[§bC§f.§d{fac_name}§c]\n§6[§f{display_name}§6]\n§b§lนักบุญ"
+    worlds: []
+  Blv6:
+    chat: "§d§l❤§bH§fE§eR§6O§d❤ §e[§a6§e] §c[§bC§f.§d{fac_name}§c] §f: §6[§f{display_name}§6]
+      §e❣§a{msg}"
+    nametag: "§d§l❤§bH§fE§eR§6O§d❤\n§e[§a6§e]\n§c[§bC§f.§d{fac_name}§c]\n§6[§f{display_name}§6]\n§b§lนักบุญ"
+    worlds: []
+  Blv7:
+    chat: "§d§l❤§bH§fE§eR§6O§d❤ §e[§a7§e] §c[§bC§f.§d{fac_name}§c] §f: §6[§f{display_name}§6]
+      §e❣§a{msg}"
+    nametag: "§d§l❤§bH§fE§eR§6O§d❤\n§e[§a7§e]\n§c[§bC§f.§d{fac_name}§c]\n§6[§f{display_name}§6]\n§b§lนักบุญ"
+    worlds: []
+  Blv8:
+    chat: "§d§l❤§bH§fE§eR§6O§d❤ §e[§a8§e] §c[§bC§f.§d{fac_name}§c] §f: §6[§f{display_name}§6]
+      §e❣§a{msg}"
+    nametag: "§d§l❤§bH§fE§eR§6O§d❤\n§e[§a8§e]\n§c[§bC§f.§d{fac_name}§c]\n§6[§f{display_name}§6]\n§b§lนักบุญ"
+    worlds: []
+  Blv9:
+    chat: "§d§l❤§bH§fE§eR§6O§d❤ §e[§a9§e] §c[§bC§f.§d{fac_name}§c] §f: §6[§f{display_name}§6]
+      §e❣§a{msg}"
+    nametag: "§d§l❤§bH§fE§eR§6O§d❤\n§e[§a9§e]\n§c[§bC§f.§d{fac_name}§c]\n§6[§f{display_name}§6]\n§b§lนักบุญ"
+    worlds: []
+  Blv10:
+    chat: "§d§l❤§bH§fE§eR§6O§d❤ §e[§a10§e] §c[§bC§f.§d{fac_name}§c] §f: §6[§f{display_name}§6]
+      §e❣§a{msg}"
+    nametag: "§d§l❤§bH§fE§eR§6O§d❤\n§e[§a10§e]\n§c[§bC§f.§d{fac_name}§c]\n§6[§f{display_name}§6]\n§b§lนักบุญ"
+    worlds: []
+  BlvMax:
+    chat: "§d§l❤§bH§fE§eR§6O§d❤ §e[§aMax§e] §c[§bC§f.§d{fac_name}§c] §f: §6[§f{display_name}§6]
+      §e❣§a{msg}"
+    nametag: "§d§l❤§bH§fE§eR§6O§d❤\n§e[§aMax§e]\n§c[§bC§f.§d{fac_name}§c]\n§6[§f{display_name}§6]\n§c§lฆ่าตกร"
+    worlds: []
+  Clv1:
+    chat: "§l§b✿§e§lจ§aอ§eม§aม§eา§aร§b✿ §3[§f1§3]§4【§b{fac_name}§4】§6:§c〖§f{display_name}§c〗§e∮§f{msg}"
+    nametag: "§l§b✿§e§lจ§aอ§eม§aม§eา§aร§b✿\n§c〖§f{display_name}§c〗\n§3[§f1§3]\n§4【§b{fac_name}§4】"
+    worlds: []
+  Clv2:
+    chat: "§l§b✿§e§lจ§aอ§eม§aม§eา§aร§b✿ §3[§f2§3]§4【§b{fac_name}§4】§6:§c〖§f{display_name}§c〗§e∮§f{msg}"
+    nametag: "§l§b✿§e§lจ§aอ§eม§aม§eา§aร§b✿\n§c〖§f{display_name}§c〗\n§3[§f2§3]\n§4【§b{fac_name}§4】"
+    worlds: []
+  Clv3:
+    chat: "§l§b✿§e§lจ§aอ§eม§aม§eา§aร§b✿ §3[§f3§3]§4【§b{fac_name}§4】§6:§c〖§f{display_name}§c〗§e∮§f{msg}"
+    nametag: "§l§b✿§e§lจ§aอ§eม§aม§eา§aร§b✿\n§c〖§f{display_name}§c〗\n§3[§f3§3]\n§4【§b{fac_name}§4】"
+    worlds: []
+  Clv4:
+    chat: "§l§b✿§e§lจ§aอ§eม§aม§eา§aร§b✿ §3[§f4§3]§4【§b{fac_name}§4】§6:§c〖§f{display_name}§c〗§e∮§f{msg}"
+    nametag: "§l§b✿§e§lจ§aอ§eม§aม§eา§aร§b✿\n§c〖§f{display_name}§c〗\n§3[§f4§3]\n§4【§b{fac_name}§4】"
+    worlds: []
+  Clv5:
+    chat: "§l§b✿§e§lจ§aอ§eม§aม§eา§aร§b✿ §3[§f5§3]§4【§b{fac_name}§4】§6:§c〖§f{display_name}§c〗§e∮§f{msg}"
+    nametag: "§l§b✿§e§lจ§aอ§eม§aม§eา§aร§b✿\n§c〖§f{display_name}§c〗\n§3[§f5§3]\n§4【§b{fac_name}§4】"
+    worlds: []
+  ClvMax:
+    chat: "§l§b✿§e§lจ§aอ§eม§aม§eา§aร§b✿ §3[§fMax§3]§4【§b{fac_name}§4】§6:§c〖§f{display_name}§c〗§e∮§f{msg}"
+    nametag: "§l§b✿§e§lจ§aอ§eม§aม§eา§aร§b✿\n§c〖§f{display_name}§c〗\n§3[§fMax§3]\n§4【§b{fac_name}§4】"
+    worlds: []
+  Dlv1:
+    chat: "§l§a◤§e1§c⭐§a◢§l§6【§eอ§aສ§bุ§dຮ§fา§6】§d〘§b{fac_name}§d〙 §c♬ §f『§e{display_name}§f』§b⚒§a{msg}"
+    nametag: "§l§6【§eอ§aສ§bุ§dຮ§fา§6】\n§l§a◤§e1§c⭐§a◢\n§d〘§b{fac_name}§d〙\n§f『§e{display_name}§f』"
+    worlds: []
+  Dlv2:
+    chat: "§l§a◤§e2§c⭐§a◢§l§6【§eอ§aສ§bุ§dຮ§fา§6】§d〘§b{fac_name}§d〙 §c♬ §f『§e{display_name}§f』§b⚒§a{msg}"
+    nametag: "§l§6【§eอ§aສ§bุ§dຮ§fา§6】\n§l§a◤§e2§c⭐§a◢\n§d〘§b{fac_name}§d〙\n§f『§e{display_name}§f』"
+    worlds: []
+  Dlv3:
+    chat: "§l§a◤§e3§c⭐§a◢§l§6【§eอ§aສ§bุ§dຮ§fา§6】§d〘§b{fac_name}§d〙 §c♬ §f『§e{display_name}§f』§b⚒§a{msg}"
+    nametag: "§l§6【§eอ§aສ§bุ§dຮ§fา§6】\n§l§a◤§e3§c⭐§a◢\n§d〘§b{fac_name}§d〙\n§f『§e{display_name}§f』"
+    worlds: []
+  Dlv4:
+    chat: "§l§a◤§e4§c⭐§a◢§l§6【§eอ§aສ§bุ§dຮ§fา§6】§d〘§b{fac_name}§d〙 §c♬ §f『§e{display_name}§f』§b⚒§a{msg}"
+    nametag: "§l§6【§eอ§aສ§bุ§dຮ§fา§6】\n§l§a◤§e4§c⭐§a◢\n§d〘§b{fac_name}§d〙\n§f『§e{display_name}§f』"
+    worlds: []
+  Dlv5:
+    chat: "§l§a◤§e5§c⭐§a◢§l§6【§eอ§aສ§bุ§dຮ§fา§6】§d〘§b{fac_name}§d〙 §c♬ §f『§e{display_name}§f』§b⚒§a{msg}"
+    nametag: "§l§6【§eอ§aສ§bุ§dຮ§fา§6】\n§l§a◤§e5§c⭐§a◢\n§d〘§b{fac_name}§d〙\n§f『§e{display_name}§f』"
+    worlds: []
+  Dlv6:
+    chat: "§l§a◤§e6§c⭐§a◢§l§6【§eอ§aສ§bุ§dຮ§fา§6】§d〘§b{fac_name}§d〙 §c♬ §f『§e{display_name}§f』§b⚒§a{msg}"
+    nametag: "§l§6【§eอ§aສ§bุ§dຮ§fา§6】\n§l§a◤§e6§c⭐§a◢\n§d〘§b{fac_name}§d〙\n§f『§e{display_name}§f』"
+    worlds: []
+  Dlv7:
+    chat: "§l§a◤§e7§c⭐§a◢§l§6【§eอ§aສ§bุ§dຮ§fา§6】§d〘§b{fac_name}§d〙 §c♬ §f『§e{display_name}§f』§b⚒§a{msg}"
+    nametag: "§l§6【§eอ§aສ§bุ§dຮ§fา§6】\n§l§a◤§e7§c⭐§a◢\n§d〘§b{fac_name}§d〙\n§f『§e{display_name}§f』"
+    worlds: []
+  Dlv8:
+    chat: "§l§a◤§e8§c⭐§a◢§l§6【§eอ§aສ§bุ§dຮ§fา§6】§d〘§b{fac_name}§d〙 §c♬ §f『§e{display_name}§f』§b⚒§a{msg}"
+    nametag: "§l§6【§eอ§aສ§bุ§dຮ§fา§6】\n§l§a◤§e8§c⭐§a◢\n§d〘§b{fac_name}§d〙\n§f『§e{display_name}§f』"
+    worlds: []
+  Dlv9:
+    chat: "§l§a◤§e9§c⭐§a◢§l§6【§eอ§aສ§bุ§dຮ§fา§6】§d〘§b{fac_name}§d〙 §c♬ §f『§e{display_name}§f』§b⚒§a{msg}"
+    nametag: "§l§6【§eอ§aສ§bุ§dຮ§fา§6】\n§l§a◤§e9§c⭐§a◢\n§d〘§b{fac_name}§d〙\n§f『§e{display_name}§f』"
+    worlds: []
+  Dlv10:
+    chat: "§l§a◤§e10§c⭐§a◢§l§6【§eอ§aສ§bุ§dຮ§fา§6】§d〘§b{fac_name}§d〙 §c♬ §f『§e{display_name}§f』§b⚒§a{msg}"
+    nametag: "§l§6【§eอ§aສ§bุ§dຮ§fา§6】\n§l§a◤§e10§c⭐§a◢\n§d〘§b{fac_name}§d〙\n§f『§e{display_name}§f』"
+    worlds: []
+  DlvMax:
+    chat: "§l§a◤§cMax§e⭐§a◢§l§6【§eอ§aສ§bุ§dຮ§fา§6】§d〘§b{fac_name}§d〙 §c♬ §f『§e{display_name}§f』§b⚒§a{msg}"
+    nametag: "§l§6【§eอ§aສ§bุ§dຮ§fา§6】\n§l§a◤§cMax§e⭐§a◢\n§d〘§b{fac_name}§d〙\n§f『§e{display_name}§f』"
+    worlds: []
+  Elv1:
+    chat: "§l§e『§61§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗 §b〘§c{fac_name}§b〙 §a◣§e{display_name}§a◥ §f⚒§e{msg}"
+    nametag: "§l§f〖§a§lร§eา§bม§dส§f§6ูร§f〗\n§l§e『§61§a☆§e』\n§b〘§c{fac_name}§b〙\n§a◣§e{display_name}§a◥"
+    worlds: []
+  Elv2:
+    chat: "§l§e『§62§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗 §b〘§c{fac_name}§b〙 §a◣§e{display_name}§a◥ §f⚒§e{msg}"
+    nametag: "§l§f〖§a§lร§eา§bม§dส§f§6ูร§f〗\n§l§e『§62§a☆§e』\n§b〘§c{fac_name}§b〙\n§a◣§e{display_name}§a◥"
+    worlds: []
+  Elv3:
+    chat: "§l§e『§63§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗 §b〘§c{fac_name}§b〙 §a◣§e{display_name}§a◥ §f⚒§e{msg}"
+    nametag: "§l§f〖§a§lร§eา§bม§dส§f§6ูร§f〗\n§l§e『§63§a☆§e』\n§b〘§c{fac_name}§b〙\n§a◣§e{display_name}§a◥"
+    worlds: []
+  Elv4:
+    chat: "§l§e『§64§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗 §b〘§c{fac_name}§b〙 §a◣§e{display_name}§a◥ §f⚒§e{msg}"
+    nametag: "§l§f〖§a§lร§eา§bม§dส§f§6ูร§f〗\n§l§e『§64§a☆§e』\n§b〘§c{fac_name}§b〙\n§a◣§e{display_name}§a◥"
+    worlds: []
+  Elv5:
+    chat: "§l§e『§65§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗 §b〘§c{fac_name}§b〙 §a◣§e{display_name}§a◥ §f⚒§e{msg}"
+    nametag: "§l§f〖§a§lร§eา§bม§dส§f§6ูร§f〗\n§l§e『§65§a☆§e』\n§b〘§c{fac_name}§b〙\n§a◣§e{display_name}§a◥"
+    worlds: []
+  Elv6:
+    chat: "§l§e『§66§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗 §b〘§c{fac_name}§b〙 §a◣§e{display_name}§a◥ §f⚒§e{msg}"
+    nametag: "§l§f〖§a§lร§eา§bม§dส§f§6ูร§f〗\n§l§e『§66§a☆§e』\n§b〘§c{fac_name}§b〙\n§a◣§e{display_name}§a◥"
+    worlds: []
+  Elv7:
+    chat: "§l§e『§67§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗 §b〘§c{fac_name}§b〙 §a◣§e{display_name}§a◥ §f⚒§e{msg}"
+    nametag: "§l§f〖§a§lร§eา§bม§dส§f§6ูร§f〗\n§l§e『§67§a☆§e』\n§b〘§c{fac_name}§b〙\n§a◣§e{display_name}§a◥"
+    worlds: []
+  Elv8:
+    chat: "§l§e『§68§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗 §b〘§c{fac_name}§b〙 §a◣§e{display_name}§a◥ §f⚒§e{msg}"
+    nametag: "§l§f〖§a§lร§eา§bม§dส§f§6ูร§f〗\n§l§e『§68§a☆§e』\n§b〘§c{fac_name}§b〙\n§a◣§e{display_name}§a◥"
+    worlds: []
+  Elv9:
+    chat: "§l§e『§69§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗 §b〘§c{fac_name}§b〙 §a◣§e{display_name}§a◥ §f⚒§e{msg}"
+    nametag: "§l§f〖§a§lร§eา§bม§dส§f§6ูร§f〗\n§l§e『§69§a☆§e』\n§b〘§c{fac_name}§b〙\n§a◣§e{display_name}§a◥"
+    worlds: []
+  Elv10:
+    chat: "§l§e『§610§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗 §b〘§c{fac_name}§b〙 §a◣§e{display_name}§a◥ §f⚒§e{msg}"
+    nametag: "§l§f〖§a§lร§eา§bม§dส§f§6ูร§f〗\n§l§e『§610§a☆§e』\n§b〘§c{fac_name}§b〙\n§a◣§e{display_name}§a◥"
+    worlds: []
+  ElvMax:
+    chat: "§l§e『§6Max§c☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗 §b〘§c{fac_name}§b〙 §a◣§e{display_name}§a◥ §f⚒§e{msg}"
+    nametag: "§l§f〖§a§lร§eา§bม§dส§f§6ูร§f〗\n§l§e『§6Max§c☆§e』\n§b〘§c{fac_name}§b〙\n§a◣§e{display_name}§a◥"
+    worlds: []
+  Flv1:
+    chat: "§l§b『§e1§a☆§b』 §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃ §a〘§c{fac_name}§a〙 §3❄§e{display_name}§3❄ §f◣§6{msg}§f◥"
+    nametag: "§l§e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃\n§l§b『§e1§a☆§b』\n§a〘§c{fac_name}§a〙\n§3❄§e{display_name}§3❄"
+    worlds: []
+  Flv2:
+    chat: "§l§b『§e2§a☆§b』 §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃ §a〘§c{fac_name}§a〙 §3❄§e{display_name}§3❄ §f◣§6{msg}§f◥"
+    nametag: "§l§e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃\n§l§b『§e2§a☆§b』\n§a〘§c{fac_name}§a〙\n§3❄§e{display_name}§3❄"
+    worlds: []
+  Flv3:
+    chat: "§l§b『§e3§a☆§b』 §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃ §a〘§c{fac_name}§a〙 §3❄§e{display_name}§3❄ §f◣§6{msg}§f◥"
+    nametag: "§l§e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃\n§l§b『§e3§a☆§b』\n§a〘§c{fac_name}§a〙\n§3❄§e{display_name}§3❄"
+    worlds: []
+  Flv4:
+    chat: "§l§b『§e4§a☆§b』 §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃ §a〘§c{fac_name}§a〙 §3❄§e{display_name}§3❄ §f◣§6{msg}§f◥"
+    nametag: "§l§e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃\n§l§b『§e4§a☆§b』\n§a〘§c{fac_name}§a〙\n§3❄§e{display_name}§3❄"
+    worlds: []
+  Flv5:
+    chat: "§l§b『§e5§a☆§b』 §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃ §a〘§c{fac_name}§a〙 §3❄§e{display_name}§3❄ §f◣§6{msg}§f◥"
+    nametag: "§l§e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃\n§l§b『§e5§a☆§b』\n§a〘§c{fac_name}§a〙\n§3❄§e{display_name}§3❄"
+    worlds: []
+  Flv6:
+    chat: "§l§b『§e6§a☆§b』 §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃ §a〘§c{fac_name}§a〙 §3❄§e{display_name}§3❄ §f◣§6{msg}§f◥"
+    nametag: "§l§e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃\n§l§b『§e6§a☆§b』\n§a〘§c{fac_name}§a〙\n§3❄§e{display_name}§3❄"
+    worlds: []
+  Flv7:
+    chat: "§l§b『§e7§a☆§b』 §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃ §a〘§c{fac_name}§a〙 §3❄§e{display_name}§3❄ §f◣§6{msg}§f◥"
+    nametag: "§l§e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃\n§l§b『§e7§a☆§b』\n§a〘§c{fac_name}§a〙\n§3❄§e{display_name}§3❄"
+    worlds: []
+  Flv8:
+    chat: "§l§b『§e8§a☆§b』 §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃ §a〘§c{fac_name}§a〙 §3❄§e{display_name}§3❄ §f◣§6{msg}§f◥"
+    nametag: "§l§e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃\n§l§b『§e8§a☆§b』\n§a〘§c{fac_name}§a〙\n§3❄§e{display_name}§3❄"
+    worlds: []
+  Flv9:
+    chat: "§l§b『§e9§a☆§b』 §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃ §a〘§c{fac_name}§a〙 §3❄§e{display_name}§3❄ §f◣§6{msg}§f◥"
+    nametag: "§l§e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃\n§l§b『§e9§a☆§b』\n§a〘§c{fac_name}§a〙\n§3❄§e{display_name}§3❄"
+    worlds: []
+  Flv10:
+    chat: "§l§b『§e10§a☆§b』 §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃ §a〘§c{fac_name}§a〙 §3❄§e{display_name}§3❄ §f◣§6{msg}§f◥"
+    nametag: "§l§e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃\n§l§b『§e10§a☆§b』\n§a〘§c{fac_name}§a〙\n§3❄§e{display_name}§3❄"
+    worlds: []
+  FlvMax:
+    chat: "§l§b『§eMax§a☆§b』 §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃ §a〘§c{fac_name}§a〙 §3❄§e{display_name}§3❄ §f◣§6{msg}§f◥"
+    nametag: "§l§e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร§e☃\n§l§b『§eMax§a☆§b』\n§a〘§c{fac_name}§a〙\n§3❄§e{display_name}§3❄"
+    worlds: []
+  Glv1:
+    chat: "§l§61§a☯§6 §c⚒§bU§al§ft§6r§da§c⚒ §c〘§a{fac_name}§c〙 §b⚔§e{display_name}§b⚔ §6◣§d{msg}§6◥"
+    nametag: "§l§c⚒§bU§al§ft§6r§da§c⚒\n§4✝§61§a☯§4✝\n§e◣§c{fac_name}§e◥\n§b⚔§e{display_name}§b⚔"
+    worlds: []
+  Glv2:
+    chat: "§l§62§a☯§6 §c⚒§bU§al§ft§6r§da§c⚒ §c〘§a{fac_name}§c〙 §b⚔§e{display_name}§b⚔ §6◣§d{msg}§6◥"
+    nametag: "§l§c⚒§bU§al§ft§6r§da§c⚒\n§4✝§62§a☯§4✝\n§e◣§c{fac_name}§e◥\n§b⚔§e{display_name}§b⚔"
+    worlds: []
+  Glv3:
+    chat: "§l§63§a☯§6 §c⚒§bU§al§ft§6r§da§c⚒ §c〘§a{fac_name}§c〙 §b⚔§e{display_name}§b⚔ §6◣§d{msg}§6◥"
+    nametag: "§l§c⚒§bU§al§ft§6r§da§c⚒\n§4✝§63§a☯§4✝\n§e◣§c{fac_name}§e◥\n§b⚔§e{display_name}§b⚔"
+    worlds: []
+  Glv4:
+    chat: "§l§64§a☯§6 §c⚒§bU§al§ft§6r§da§c⚒ §c〘§a{fac_name}§c〙 §b⚔§e{display_name}§b⚔ §6◣§d{msg}§6◥"
+    nametag: "§l§c⚒§bU§al§ft§6r§da§c⚒\n§4✝§64§a☯§4✝\n§e◣§c{fac_name}§e◥\n§b⚔§e{display_name}§b⚔"
+    worlds: []
+  Glv5:
+    chat: "§l§65§a☯§6 §c⚒§bU§al§ft§6r§da§c⚒ §c〘§a{fac_name}§c〙 §b⚔§e{display_name}§b⚔ §6◣§d{msg}§6◥"
+    nametag: "§l§c⚒§bU§al§ft§6r§da§c⚒\n§4✝§65§a☯§4✝\n§e◣§c{fac_name}§e◥\n§b⚔§e{display_name}§b⚔"
+    worlds: []
+  Glv6:
+    chat: "§l§66§a☯§6 §c⚒§bU§al§ft§6r§da§c⚒ §c〘§a{fac_name}§c〙 §b⚔§e{display_name}§b⚔ §6◣§d{msg}§6◥"
+    nametag: "§l§c⚒§bU§al§ft§6r§da§c⚒\n§4✝§66§a☯§4✝\n§e◣§c{fac_name}§e◥\n§b⚔§e{display_name}§b⚔"
+    worlds: []
+  Glv7:
+    chat: "§l§67§a☯§6 §c⚒§bU§al§ft§6r§da§c⚒ §c〘§a{fac_name}§c〙 §b⚔§e{display_name}§b⚔ §6◣§d{msg}§6◥"
+    nametag: "§l§c⚒§bU§al§ft§6r§da§c⚒\n§4✝§67§a☯§4✝\n§e◣§c{fac_name}§e◥\n§b⚔§e{display_name}§b⚔"
+    worlds: []
+  Glv8:
+    chat: "§l§68§a☯§6 §c⚒§bU§al§ft§6r§da§c⚒ §c〘§a{fac_name}§c〙 §b⚔§e{display_name}§b⚔ §6◣§d{msg}§6◥"
+    nametag: "§l§c⚒§bU§al§ft§6r§da§c⚒\n§4✝§68§a☯§4✝\n§e◣§c{fac_name}§e◥\n§b⚔§e{display_name}§b⚔"
+    worlds: []
+  Glv9:
+    chat: "§l§69§a☯§6 §c⚒§bU§al§ft§6r§da§c⚒ §c〘§a{fac_name}§c〙 §b⚔§e{display_name}§b⚔ §6◣§d{msg}§6◥"
+    nametag: "§l§c⚒§bU§al§ft§6r§da§c⚒\n§4✝§69§a☯§4✝\n§e◣§c{fac_name}§e◥\n§b⚔§e{display_name}§b⚔"
+    worlds: []
+  Glv10:
+    chat: "§l§610§a☯§6 §c⚒§bU§al§ft§6r§da§c⚒ §c〘§a{fac_name}§c〙 §b⚔§e{display_name}§b⚔ §6◣§d{msg}§6◥"
+    nametag: "§l§c⚒§bU§al§ft§6r§da§c⚒\n§4✝§610§a☯§4✝\n§e◣§c{fac_name}§e◥\n§b⚔§e{display_name}§b⚔"
+    worlds: []
+  GlvMax:
+    chat: "§l§6Max§a☯§6 §c⚒§bU§al§ft§6r§da§c⚒ §c〘§a{fac_name}§c〙 §b⚔§e{display_name}§b⚔ §6◣§d{msg}§6◥"
+    nametag: "§l§c⚒§bU§al§ft§6r§da§c⚒\n§4✝§6Max§a☯§4✝\n§e◣§c{fac_name}§e◥\n§b⚔§e{display_name}§b⚔"
+    worlds: []
+  Hlv1:
+    chat: "§l§d◣§c1§s◥ §e♻§l§aพ§6ร§eี§bเ§dม§fี§c่§aย§6ม§e♻ §b⚔§a{fac_name}§b⚔ §4✖§6{display_name}§4✖ §a▶§b{msg}§2✔"
+    nametag: "§e♻§l§aพ§6ร§eี§bเ§dม§fี§c่§aย§6ม§e♻\n§l§d◣§c1§s◥\n§b⚔§a{fac_name}§b⚔\n§4✖§6{display_name}§4✖\n§eวิเศษ"
+    worlds: []
+  Hlv2:
+    chat: "§l§d◣§c2§s◥ §e♻§l§aพ§6ร§eี§bเ§dม§fี§c่§aย§6ม§e♻ §b⚔§a{fac_name}§b⚔ §4✖§6{display_name}§4✖ §a▶§b{msg}§2✔"
+    nametag: "§e♻§l§aพ§6ร§eี§bเ§dม§fี§c่§aย§6ม§e♻\n§l§d◣§c2§s◥\n§b⚔§a{fac_name}§b⚔\n§4✖§6{display_name}§4✖\n§eวิเศษ"
+    worlds: []
+  Hlv3:
+    chat: "§l§d◣§c3§s◥ §e♻§l§aพ§6ร§eี§bเ§dม§fี§c่§aย§6ม§e♻ §b⚔§a{fac_name}§b⚔ §4✖§6{display_name}§4✖ §a▶§b{msg}§2✔"
+    nametag: "§e♻§l§aพ§6ร§eี§bเ§dม§fี§c่§aย§6ม§e♻\n§l§d◣§c3§s◥\n§b⚔§a{fac_name}§b⚔\n§4✖§6{display_name}§4✖\n§eวิเศษ"
+    worlds: []
+  Hlv4:
+    chat: "§l§d◣§c4§s◥ §e♻§l§aพ§6ร§eี§bเ§dม§fี§c่§aย§6ม§e♻ §b⚔§a{fac_name}§b⚔ §4✖§6{display_name}§4✖ §a▶§b{msg}§2✔"
+    nametag: "§e♻§l§aพ§6ร§eี§bเ§dม§fี§c่§aย§6ม§e♻\n§l§d◣§c4§s◥\n§b⚔§a{fac_name}§b⚔\n§4✖§6{display_name}§4✖\n§eวิเศษ"
+    worlds: []
+  Hlv5:
+    chat: "§l§d◣§c5§s◥ §e♻§l§aพ§6ร§eี§bเ§dม§fี§c่§aย§6ม§e♻ §b⚔§a{fac_name}§b⚔ §4✖§6{display_name}§4✖ §a▶§b{msg}§2✔"
+    nametag: "§e♻§l§aพ§6ร§eี§bเ§dม§fี§c่§aย§6ม§e♻\n§l§d◣§c5§s◥\n§b⚔§a{fac_name}§b⚔\n§4✖§6{display_name}§4✖\n§eวิเศษ"
+    worlds: []
+  HlvMax:
+    chat: "§l§d◣§cMax§s◥ §e♻§l§aพ§6ร§eี§bเ§dม§fี§c่§aย§6ม§e♻ §b⚔§a{fac_name}§b⚔ §4✖§6{display_name}§4✖ §a▶§b{msg}§2✔"
+    nametag: "§e♻§l§aพ§6ร§eี§bเ§dม§fี§c่§aย§6ม§e♻\n§l§d◣§cMax§s◥\n§b⚔§a{fac_name}§b⚔\n§4✖§6{display_name}§4✖\n§eวิเศษ"
+    worlds: []
+  Admin:
+    chat: "§4[§cเ§6เ§eอ§bด§6ม§bิ§dน§4] §b▶§6{display_name}§b◀ §e⚒§a{msg}"
+    nametag: "§4[§cเ§6เ§eอ§bด§6ม§bิ§dน§4] §b▶§6{display_name}§b◀\n§f"
+    worlds: []
+  Owner:
+    chat: "§l§4⚔§fO§7w§bn§ae§er§4⚔ §f: §e{display_name} §a⚱§c{msg}"
+    nametag: "§l§4⚔§fO§7w§bn§ae§er§4⚔\n§e[§6{display_name}§e]\n§cส§6ถ§eา§aน§b่§dะ§f : §6[§4เจ้าของเซิฟ§6]"
+    worlds: []
+  OP:
+    chat: "&3&l{prefix}&9[OP]&f&r {display_name} &7> {msg}"
+    nametag: "&3&l{prefix}&9[OP]&f&r {display_name}"
+    worlds: []
+...

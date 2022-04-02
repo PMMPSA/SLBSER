@@ -1,0 +1,292 @@
+---
+125:3:118:shop:
+  x: 125
+  "y": 3
+  z: 118
+  level: shop
+  cost: 1500
+  item: 265
+  itemName: Iron Ingot
+  meta: 0
+  amount: 3
+126:3:118:shop:
+  x: 126
+  "y": 3
+  z: 118
+  level: shop
+  cost: 950
+  item: 266
+  itemName: Gold Ingot
+  meta: 0
+  amount: 3
+128:3:118:shop:
+  x: 128
+  "y": 3
+  z: 118
+  level: shop
+  cost: 450
+  item: 263
+  itemName: Coal
+  meta: 0
+  amount: 3
+129:3:118:shop:
+  x: 129
+  "y": 3
+  z: 118
+  level: shop
+  cost: 1000
+  item: 263
+  itemName: Charcoal
+  meta: 1
+  amount: 3
+130:3:118:shop:
+  x: 130
+  "y": 3
+  z: 118
+  level: shop
+  cost: 750
+  item: 331
+  itemName: Redstone
+  meta: 0
+  amount: 3
+131:3:118:shop:
+  x: 131
+  "y": 3
+  z: 118
+  level: shop
+  cost: 710
+  item: 351
+  itemName: Lapis Lazuli
+  meta: 4
+  amount: 3
+132:3:118:shop:
+  x: 132
+  "y": 3
+  z: 118
+  level: shop
+  cost: 99
+  item: 318
+  itemName: Flint
+  meta: 0
+  amount: 3
+130:16:137:shop:
+  x: 130
+  "y": 16
+  z: 137
+  level: shop
+  cost: 450
+  item: 12
+  itemName: Sand
+  meta: 0
+  amount: 25
+128:16:137:shop:
+  x: 128
+  "y": 16
+  z: 137
+  level: shop
+  cost: 310
+  item: 1
+  itemName: Stone
+  meta: 0
+  amount: 30
+127:16:137:shop:
+  x: 127
+  "y": 16
+  z: 137
+  level: shop
+  cost: 5000
+  item: 49
+  itemName: Obsidian
+  meta: 0
+  amount: 15
+126:16:137:shop:
+  x: 126
+  "y": 16
+  z: 137
+  level: shop
+  cost: 750
+  item: 73
+  itemName: Redstone Ore
+  meta: 0
+  amount: 10
+20:23:19:Build:
+  x: 20
+  "y": 23
+  z: 19
+  level: Build
+  cost: 50000
+  item: 457
+  itemName: Beetroot
+  meta: 0
+  amount: 10
+129:1:124:shop:
+  x: 129
+  "y": 1
+  z: 124
+  level: shop
+  cost: 90
+  item: 334
+  itemName: Leather
+  meta: 0
+  amount: 3
+118:1:132:shop:
+  x: 118
+  "y": 1
+  z: 132
+  level: shop
+  cost: 2100
+  item: 296
+  itemName: Wheat
+  meta: 0
+  amount: 6
+118:1:131:shop:
+  x: 118
+  "y": 1
+  z: 131
+  level: shop
+  cost: 510
+  item: 86
+  itemName: Pumpkin
+  meta: 0
+  amount: 3
+118:1:129:shop:
+  x: 118
+  "y": 1
+  z: 129
+  level: shop
+  cost: 1500
+  item: 392
+  itemName: Potato
+  meta: 0
+  amount: 3
+118:1:128:shop:
+  x: 118
+  "y": 1
+  z: 128
+  level: shop
+  cost: 900
+  item: 81
+  itemName: Cactus
+  meta: 0
+  amount: 5
+118:1:127:shop:
+  x: 118
+  "y": 1
+  z: 127
+  level: shop
+  cost: 1500
+  item: 391
+  itemName: Carrot
+  meta: 0
+  amount: 3
+118:1:126:shop:
+  x: 118
+  "y": 1
+  z: 126
+  level: shop
+  cost: 2500
+  item: 338
+  itemName: Sugar Cane
+  meta: 0
+  amount: 6
+118:1:124:shop:
+  x: 118
+  "y": 1
+  z: 124
+  level: shop
+  cost: 3500
+  item: 372
+  itemName: Nether Wart
+  meta: 0
+  amount: 6
+118:1:125:shop:
+  x: 118
+  "y": 1
+  z: 125
+  level: shop
+  cost: 1000
+  item: 351
+  itemName: Cocoa Beans
+  meta: 3
+  amount: 6
+127:1:138:shop:
+  x: 127
+  "y": 1
+  z: 138
+  level: shop
+  cost: 2500
+  item: 264
+  itemName: Diamond
+  meta: 0
+  amount: 3
+126:1:138:shop:
+  x: 126
+  "y": 1
+  z: 138
+  level: shop
+  cost: 1500
+  item: 265
+  itemName: Iron Ingot
+  meta: 0
+  amount: 3
+125:1:138:shop:
+  x: 125
+  "y": 1
+  z: 138
+  level: shop
+  cost: 800
+  item: 266
+  itemName: Gold Ingot
+  meta: 0
+  amount: 3
+124:1:138:shop:
+  x: 124
+  "y": 1
+  z: 138
+  level: shop
+  cost: 3500
+  item: 388
+  itemName: Emerald
+  meta: 0
+  amount: 3
+123:1:138:shop:
+  x: 123
+  "y": 1
+  z: 138
+  level: shop
+  cost: 710
+  item: 263
+  itemName: Coal
+  meta: 0
+  amount: 3
+122:1:138:shop:
+  x: 122
+  "y": 1
+  z: 138
+  level: shop
+  cost: 290
+  item: 351
+  itemName: Lapis Lazuli
+  meta: 4
+  amount: 3
+121:1:138:shop:
+  x: 121
+  "y": 1
+  z: 138
+  level: shop
+  cost: 331
+  item: 331
+  itemName: Redstone
+  meta: 0
+  amount: 3
+118:1:130:shop:
+  x: 118
+  "y": 1
+  z: 130
+  level: shop
+  cost: 4000
+  item: 360
+  itemName: Melon
+  meta: 0
+  amount: 9
+...

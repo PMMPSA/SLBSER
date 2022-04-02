@@ -1,0 +1,16 @@
+name: FlyAPI
+main: FairSYS\Fly\Main
+version: "1.0"
+api: [2.0.0, 3.0.0-ALPHA6, 3.0.0-ALPHA7]
+author: FairSYS
+
+commands:
+  fly:
+    description: Fly CMD
+    use: "/fly <on|off>"
+    permission: fly.cmd
+
+permissions:
+  fly.cmd:
+    description: Fly CMD
+    default: op

@@ -1,0 +1,9 @@
+name: Shopapi
+version: 1.0
+main: Shopapi\Main
+author: bankrtdv
+api: 2.0.0
+
+commands:
+ sh:
+  default: true

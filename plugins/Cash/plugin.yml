@@ -1,0 +1,32 @@
+name: Cash
+version: 1
+api: 2.0.0
+main: DanielYTK\Cash\Main
+author: DanielYTK
+commands:
+    cash:
+        permission: cash.meucash
+        description: Veja o seu cash
+    setcash:
+        permission: cash.setcash
+        description: Para setar o cash de um jogador
+    addcash:
+        permission: cash.addcash
+        description: Adicionar cash a conta de um jogador
+    takecash:
+        permission: cash.takecash
+        description: Remover cash de um jogador
+permissions:
+    cash.meucash:
+        description: Veja seu cash
+        default: true
+    cash.setcash:
+        description: Para setar o cash de um jogador
+        default: op
+    cash.addcash:
+        description: Adicionar cash a conta de um jogador
+        default: op
+    cash.takecash:
+        description: Remover cash de um jogador
+        default: op
+        

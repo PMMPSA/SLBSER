@@ -1,0 +1,9 @@
+name: Trem
+version: 1.0
+main: Trem\Main
+author: bankrtdv
+api: 2.0.0
+
+commands:
+ trem:
+  default: true

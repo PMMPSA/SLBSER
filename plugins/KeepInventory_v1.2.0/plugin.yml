@@ -1,0 +1,6 @@
+name: KeepInventory
+version: 1.2.0
+api: [1.0.0]
+author: boybook
+main: KeepInventory\Main
+description: "Keep Inventory like PC !"

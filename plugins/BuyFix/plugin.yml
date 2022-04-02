@@ -1,0 +1,9 @@
+name: Buyfix
+main: BuyFix\BuyFix
+version: 1.0.0
+api: 3.0.0-ALPHA2
+author: ฟรองซ์ เอง
+
+commands:
+   buyfix:
+     description: เหนื่อย

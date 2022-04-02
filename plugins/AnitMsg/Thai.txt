@@ -1,0 +1,1 @@
+$player->addEffect(Effect::getEffect(Effect::BLINDNESS)->setAmplifier(1)->setDuration(10 *10));

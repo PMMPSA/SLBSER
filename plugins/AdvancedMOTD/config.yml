@@ -1,0 +1,10 @@
+#Time in between each MOTD Change in seconds
+Occurrence: 2
+
+#Different MOTDs to show
+MOTDS:
+  - "§l§2『  §7Ｍ§bｅ§eＬ§6ｏ§aｎ§dｙ§cＰ§fＥ  §2』 §l§cS§ak§ey§bB§fl§do§fc§2k§r  §r                                                          §f§l"
+  - "§l§b『  §7Ｍ§bｅ§eＬ§6ｏ§aｎ§dｙ§cＰ§fＥ  §b』 §l§cS§ak§ey§bB§fl§do§fc§2k§r  §r                                                          §f§l"
+  - "§l§a『  §7Ｍ§bｅ§eＬ§6ｏ§aｎ§dｙ§cＰ§fＥ  §a』 §l§cS§ak§ey§bB§fl§do§fc§2k§r  §r                                                          §f§l"
+  - "§l§d『  §7Ｍ§bｅ§eＬ§6ｏ§aｎ§dｙ§cＰ§fＥ  §d』 §l§cS§ak§ey§bB§fl§do§fc§2k§r  §r                                                          §f§l"
+  - "§l§e『  §7Ｍ§bｅ§eＬ§6ｏ§aｎ§dｙ§cＰ§fＥ  §e』 §l§cS§ak§ey§bB§fl§do§fc§2k§r  §r                                                          §f§l"

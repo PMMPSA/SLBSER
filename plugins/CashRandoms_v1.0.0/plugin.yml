@@ -1,0 +1,9 @@
+name: CashRandoms
+author: Bankrtdv
+main: CashRandoms\CashRandoms\Main
+version: 1.0
+api: 
+- 1.0.0
+- 1.1.0
+- 2.0.0
+load: STARTUP

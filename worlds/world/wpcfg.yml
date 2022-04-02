@@ -1,0 +1,9 @@
+---
+bancmds:
+  /fly: /fly
+  /tpaccept: /tpaccept
+banitem:
+  466: Enchanted Golden Apple
+  259: Flint and Steel
+protect: lock
+...

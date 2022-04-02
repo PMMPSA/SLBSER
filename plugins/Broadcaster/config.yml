@@ -1,0 +1,20 @@
+---
+prefix: "Broadcaster"
+suffix: "[A]"
+time: 300
+sendmessage-format: "&e[{TIME}] &b[{PREFIX}] {SUFFIX} &a{SENDER}&e>&f {MESSAGE}"
+datetime-format: "H:i:s"
+broadcast-enabled: true
+messages:
+ - "§e§lก§fิ§eจ§fร§eร§fม §aท§6ุ§aก§dๆ§bว§aั§bน §cเ§6ว§cล§6า §f17§e.§f00"
+ - "&6§lกฏในการเล่น §f: §a1§f.§eห้ามใช้โปรช่วยเล่นต่างๆ §a2§f.§eห้ามขอของ§f.§cOP§f.§eต่างๆ §a3§f.§eห้ามโปรโหมดหรือพูดถึง§dเซิฟ§eอื้นๆในเซิฟนี้§a 4§f.§eห้ามพูดคำหยาบหรือกวนตีนเจ้าหน้าที่ §a5§f.§eไม่เข้าใจลองย้อนกลับไปอ่านข้อ§f.§a1§e อีกครั้ง§c!!!"
+ - "§e§l•§6•§c•94•§r"
+popup-time: 15
+popup-duration: 5
+sendpopup-format: "&a{SENDER}&e>>&f {MESSAGE}"
+popup-broadcast-enabled: false
+popups:
+ - "&aWelcome to your server"
+ - "&d{TOTALPLAYERS} &eof &d{MAXPLAYERS} &eonline"
+ - "&bCurrent Time: &a{TIME}"
+...

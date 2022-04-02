@@ -1,0 +1,6 @@
+---
+name: KillerHeal
+author: JUZEXMOD
+main: KillerHeal\Main
+version: 1.0
+api: [2.0.0]

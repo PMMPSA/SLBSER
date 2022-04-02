@@ -1,0 +1,14 @@
+---
+m:
+  cooldown:
+    hours: 1
+    minutes: 1
+  commands:
+  - "bcast §l§e{player} §b§lรับของออนไลน์ เเล้ว§c!!"
+  - "givemoney {player} 300"
+  - "give {player} 388 3"
+  - "give {player} 264 2"
+  - "give {player} 265 4"
+  - "give {player} 17 5"
+  - "give {player} 2 8"
+...

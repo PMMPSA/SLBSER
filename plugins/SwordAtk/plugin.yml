@@ -1,0 +1,8 @@
+name: SwordAtk
+main: SwordAtk\SwordAtk
+api: 1.0.0
+author: BANKRTDV
+version: 1
+commands:
+  qpde:
+   default: true

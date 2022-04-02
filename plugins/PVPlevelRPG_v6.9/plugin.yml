@@ -1,0 +1,37 @@
+name: PVPlevelRPG
+main: PVPlevelRPG\LevelPlugin
+version: 6.9.LucasGamer610
+api: [1.0.0, 1.12.1, 1.12.0, 1.13.0, 1.13.1, 2.0.0, 2.1.0, 3.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3, 3.0.0-ALPHA4]
+load: POSTWORLD
+author: ByZikenPE
+description: Can also be used as a level is a plug-in API
+commands:
+ level:
+  description: "Veja o seu level e o level de outros jogadores"
+ toplevels:
+  description: "Veja o Top Levels"
+ topkills:
+  description: "Veja o Top Kills"
+ topdeaths:
+  description: "Veja o Top Deaths"
+permissions:
+ level:
+  default: true
+  children:
+   level.command:
+    default: true
+ toplevel:
+  default: true
+  children:
+   toplevel.command:
+    default: true
+ topkill:
+  default: true
+  children:
+   topkill.command:
+    default: true
+ topdeath:
+  default: true
+  children:
+   topdeath.command:
+    default: true

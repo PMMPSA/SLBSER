@@ -1,0 +1,82 @@
+#ServerAuth plugin English language file
+#Translation by Flavius12, EvolSoft
+---
+join-message: "§l§f▂▂▂§d▃▃▃§b▅▅§9▆▆§a█§l§cＭ§6ｅ§eＬ§aｏ§bｎ§dｙ§fＰ§7Ｅ§a█§9▆▆§b▅▅§d▃▃▃§f▂▂▂
+
+§l§cยิน§6ดี§eต้อน§aรับ §fสู่ §bเ§6ซ§bิ§6ฟ§bเ§6ว§bอ§6ร์§
+
+§cM§6e§eL§ao§bN§dy§fP§7E §f- §aS§fk§ay§fB§al§fo§ac§fk§4-§9P§fV§cP
+
+§eติด§6ต่อ§bเเอด§dมิน§7ได้§fที่ §aLine §f:§6 mnty
+
+§6I§eP §f: §bmonp§f.§bddns§f.§bnet
+
+§bPort §f: §b1§e9§b1§32
+
+"
+single-auth: "&cA player with this nickname is already authenticated!"
+mysql-success: "&aServerAuth successfully connected to the MySQL database!"
+mysql-restored: "&aMySQL connection restored!"
+mysql-fail: "&cServerAuth can't connect to the MySQL database. Data will be saved locally. Error: {MYSQL_ERROR}" 
+config-reloaded: "&aConfiguration reloaded!"
+operation-cancelled: "&cOperation cancelled"
+login:
+  message: "§l§e/§6l§eo§6g§ei§6n §a<§cร§6ห§eั§aส§bผ§d่§fา§bน§a>§7✎"
+  disabled: "&cLogin disabled in this server"
+  command: "§eUsage§c: §f/login <Password>"
+  ip-login: "§aเ§fข§a้§fา§aส§fู§a่§fร§aะ§fบ§aบ§fด§a้§fว§aย §6I§eP"
+  login-success: "§l§a♬§bเข้าสู่ระบบสำเร็จ§a♬"
+  login-timeout: "§7§l§ki§r &cLogin Timeout §7§ki"
+  already-login: "&eคุณเข้าสู่ระบบแล้ว"
+  too-many-attempts: "&cมีการพยายามลงชื่อเข้าใช้มากเกินไป!"
+register: 
+  message: "§l§c/§6r§ee§ag §d❊§7ร§6ห§7ั§6ส§7ผ§6่§7า§6น§d❊"
+  message-conf: "&cPlease register with /register <password> <confirmPassword>"
+  disabled: "&cRegister disabled in this server"
+  command: "&cUsage: /register <password>"
+  command-conf: "&cUsage: /register <password> <confirmPassword>"
+  register-success: "§6✿§a§lลงทะเบียนเรียบร้อยเเล้ว§6✿"
+  register-timeout: "§7§l▐▐▐▐▐▐▐"
+  already-registered: "§l§6บันชีนี้ได้ทำการสมัครเเล้ว"
+changepassword:
+  disabled: "&cChange password disabled in this server"
+  login-required: "&cYou need to be logged in to change password"
+  command: "&cUsage: /changepassword <newPassword>"
+  command-conf: "&cUsage: /changepassword <newPassword> <confirmPassword>"
+  command-cons: "&cUsage: /changepassword <player> <newPassword>"
+  changepassword-success: "§l§aเปลี่ยนรหัสผ่านสำเร็จ!"
+  changepassword-cons-success: "&aPassword for user &b{PLAYER} &achanged to &b{PASSWORD}"
+logout:
+  disabled: "&cLogout disabled in this server"
+  logout-success: "&aYou have been logged out"
+unregister:
+  disabled: "&cUnregister disabled in this server"
+  login-required: "&cYou need to be logged in to unregister"
+  command: "&cUsage: /unregister <password>"
+  command-cons: "&cUsage: /unregister <player>"
+  unregister-success: "&aYou are now unregistered!"
+  unregister-success-3rd: "&aThe player is now unregistered!"
+help:
+   1: "&b=> &aAvailable Commands &b<="
+   2: "&a/changepassword &b=>&a Change the account password"
+   3: "&a/login &b=>&a Do login"
+   4: "&a/logout &b=>&a Do logout"
+   5: "&a/register &b=>&a Register an account"
+   6: "&a/serverauth help &b=>&a Show help about this plugin"
+   7: "&a/serverauth info &b=>&a Show info about this plugin"
+   8: "&a/serverauth reload &b=>&a Reload the config"
+   9: "&a/unregister &b=>&a Unregister your account"
+   error: "&cSubcommand &a{SUBCMD} &cnot found. Use &a/serverauth help &cto show available commands"
+errors:
+  generic: "&cAn error has occurred"
+  wrong-password: "§l§cรหัสผ่านผิดพลาด!!"
+  password-no-match: "&cPassword doesn't match confirmation"
+  password-too-short: "&c§lรหัสผ่านสั่นเกินไป"
+  password-too-long: "&cPassword too long"
+  user-not-registered: "&cYou are not registered"
+  user-not-registered-3rd: "&cThe player isn't registered"
+  user-not-authenticated: "&cYou are not logged in"
+  max-ip-reached: "&cYou reached the maximum number of registrations per IP"
+  no-permissions: "&cYou don't have permissions to use this command"
+  player-only: "&cYou can only perform this command as a player"
+...

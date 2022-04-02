@@ -1,0 +1,36 @@
+name: wedth
+author: ฟรองซ์
+description: ปลั๊กอินแต่งงาน
+version: 1.0.4
+main: wedth\Main
+api: 
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.2.1
+- 3.0.0-ALPHA6
+- 3.0.0-ALPHA5
+- 3.0.0-ALPHA4
+- 2.0.0
+commands:
+  love:
+    description: Use /love love แต่งงาน
+    permission: love.command.friend
+  unlove:
+    description: Use /love unlove ยกเลิกแต่งงาน
+    permission: love.command.unfriend
+permissions:
+  love:
+    default: false
+    description: "อิไต"
+    children:
+      love.command:
+        default: false
+        description: "อิไต"
+        children:
+          love.command.friend:
+            default: true
+            description: "อิไต"
+          love.command.unfriend:
+            default: true
+            description: "อิไต"

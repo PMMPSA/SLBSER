@@ -1,0 +1,8 @@
+name: BauWin
+version: 1.0
+api: 2.0.0
+main: bau\Main
+author: yHwinT
+commands:
+  bau:
+    description: "use um baú privado"

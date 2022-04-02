@@ -1,0 +1,41 @@
+---
+playernew:
+  items:
+  - id: 276
+    damage: 0
+    count: 1
+    name: "§r§l§aดาบผู้เล่นใหม่"
+    enchantment:
+      #name: level
+      weapon_sharpness: 2
+      weapon_knockback: 1
+  - id: 260
+    damage: 0
+    count: 5
+    name: "§r§l§aอาหารผู้เล่นใหม่"
+  - id: 306
+    name: "§r§l§aของผู้เล่นใหม่"
+    enchantment:
+      armor_protection: 3
+  - id: 307
+    name: "§r§l§aของผู้เล่นใหม่"
+    enchantment:
+      armor_protection: 3
+  - id: 308
+    name: "§r§l§aของผู้เล่นใหม่"
+    enchantment:
+      armor_protection: 3
+  - id: 309
+    name: "§r§l§aของผู้เล่นใหม่"
+    enchantment:
+      armor_protection: 3
+  cooldown:
+    hours: 999
+    minutes: 999
+  commands:
+  - "givemoney {player} 10000"
+  - "bcast §e{player} §aผู้เล่นคนนี้ได้รับของผู้เล่นใหม่แล้ว!!"
+  effects:
+  worlds:
+  users:
+...

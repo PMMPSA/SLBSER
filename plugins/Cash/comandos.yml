@@ -1,0 +1,6 @@
+---
+cash: para ver o seu cash
+setcash: para setar o cash dos jogadores
+addcash: para adicionar cash a conta de um jogador
+takecash: para remover cash da conta de um jogador
+...

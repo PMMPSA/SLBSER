@@ -1,0 +1,5 @@
+name: Kiss
+version: 1.0
+main: kiss\frongky\frongky
+api: [3.0.0, 2.1.0]
+author: ฟรองซ์เอง

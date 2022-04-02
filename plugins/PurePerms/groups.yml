@@ -1,0 +1,1230 @@
+---
+Guest:
+  alias: gst
+  isDefault: true
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pperms.command.ppinfo
+  worlds: []
+Alv1:
+  alias: a1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Alv2:
+  alias: a1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Alv3:
+  alias: a1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Alv4:
+  alias: a1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Alv5:
+  alias: a1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Alv6:
+  alias: a1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Alv7:
+  alias: a1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Alv8:
+  alias: a1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Alv9:
+  alias: a1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Alv10:
+  alias: a1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+AlvMax:
+  alias: a1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Blv1:
+  alias: b1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Blv2:
+  alias: b1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Blv3:
+  alias: b1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Blv4:
+  alias: b1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Blv5:
+  alias: b1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Blv6:
+  alias: b1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Blv7:
+  alias: b1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Blv8:
+  alias: b1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Blv9:
+  alias: b1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Blv10:
+  alias: b1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+BlvMax:
+  alias: b1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Clv1:
+  alias: c1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Clv2:
+  alias: c1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Clv3:
+  alias: c1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Clv4:
+  alias: c1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Clv5:
+  alias: c1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+ClvMax:
+  alias: c1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Dlv1:
+  alias: d1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Dlv2:
+  alias: d1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Dlv3:
+  alias: d1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Dlv4:
+  alias: d1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Dlv5:
+  alias: d1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Dlv6:
+  alias: d1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Dlv7:
+  alias: d1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Dlv8:
+  alias: d1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Dlv9:
+  alias: d1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Dlv10:
+  alias: d1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+DlvMax:
+  alias: d1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Elv1:
+  alias: e1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Elv2:
+  alias: e1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Elv3:
+  alias: e1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Elv4:
+  alias: e1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Elv5:
+  alias: e1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Elv6:
+  alias: e1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Elv7:
+  alias: e1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Elv8:
+  alias: e1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Elv9:
+  alias: e1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Elv10:
+  alias: e1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+ElvMax:
+  alias: e1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Flv1:
+  alias: f1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Flv2:
+  alias: f1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Flv3:
+  alias: f1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Flv4:
+  alias: f1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Flv5:
+  alias: f1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Flv6:
+  alias: f1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Flv7:
+  alias: f1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Flv8:
+  alias: f1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Flv9:
+  alias: f1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Flv10:
+  alias: f1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+FlvMax:
+  alias: f1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - fly.cmd
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Glv1:
+  alias: g1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - fly.cmd
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Glv2:
+  alias: g1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - fly.cmd
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Glv3:
+  alias: g1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - fly.cmd
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Glv4:
+  alias: g1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - fly.cmd
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Glv5:
+  alias: g1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - fly.cmd
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Glv6:
+  alias: g1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - fly.cmd
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Glv7:
+  alias: g1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - fly.cmd
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Glv8:
+  alias: g1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - fly.cmd
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Glv9:
+  alias: g1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - fly.cmd
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Glv10:
+  alias: g1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - fly.cmd
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+GlvMax:
+  alias: g1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - fly.cmd
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Hlv1:
+  alias: h1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - fly.cmd
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Hlv2:
+  alias: h1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - fly.cmd
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Hlv3:
+  alias: h1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - fly.cmd
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Hlv4:
+  alias: h1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - fly.cmd
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Hlv5:
+  alias: h1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - fly.cmd
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+HlvMax:
+  alias: h1
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - essentials.feed.use
+  - essentials.heal.use
+  - essentials.nick.use
+  - fly.cmd
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Admin:
+  alias: adm
+  inheritance:
+  - Guest
+  permissions:
+  - essentials.gamemode
+  - pocketmine.broadcast
+  - pocketmine.command.enchant
+  - pocketmine.command.gamemode
+  - pocketmine.command.give
+  - pocketmine.command.kick
+  - pocketmine.command.teleport
+  - pocketmine.command.time
+  worlds: []
+Owner:
+  alias: owr
+  inheritance:
+  - Admin
+  permissions:
+  - essentials
+  - pocketmine.command
+  - pperms.command
+  worlds: []
+OP:
+  alias: op
+  inheritance: []
+  permissions:
+  - '*'
+  worlds: []
+...

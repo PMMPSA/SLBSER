@@ -1,0 +1,9 @@
+name: Buffalo
+author: Buffalo
+main: Buffalo\Buffalo\Main
+version: 0.0.1
+api: 
+- 1.0.0
+- 1.1.0
+- 2.0.0
+load: STARTUP

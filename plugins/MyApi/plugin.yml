@@ -1,0 +1,8 @@
+name: MyApi
+main: MyApi\MyApi
+api: 1.0.0
+author: BANKRTDV
+version: 1
+commands:
+  myapi:
+   default: true

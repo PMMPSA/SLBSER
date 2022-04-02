@@ -1,0 +1,111 @@
+name: MagicWE
+main: MagicWE\Main
+version: 0.2.4.LucasGamer
+api: ["2.1.0", "2.0.0", "3.0.0-ALPHA1", "3.0.0-ALPHA2", "3.0.0"]
+load: STARTUP
+authors: [thebigsmileXD]
+description: WorldEdit com um toque mágico
+commands:
+  /pos1:
+    description: Selecionar a primeira posição
+    usage: "//pos1"
+    permission: we.commands.pos
+  /pos2:
+    description: Selecione a segunda posição
+    usage: "//pos2"
+    permission: we.commands.pos
+  /set:
+    description: Preencher uma selecção
+    usage: "//set <id[:meta] | id1[:meta1],id2[:meta2],id3[:meta3]>"
+    permission: we.commands.set
+  /replace:
+    description: Substituir blocos na seleção
+    usage: "//replace <id[:meta] | id1[:meta1],id2[:meta2],id3[:meta3]> <id[:meta] | id1[:meta1],id2[:meta2],id3[:meta3]>"
+    permission: we.commands.replace
+  /copy:
+    description: Copiar uma seleção
+    usage: "//copy"
+    permission: we.commands.copy
+  /paste:
+    description: Colar blocos copiados na sua posição
+    usage: "//paste"
+    permission: we.commands.paste
+  /undo:
+    description: Desfazer sua última ação
+    usage: "//undo"
+    permission: we.commands.undo
+  /redo:
+    description: Refazer a última ação
+    usage: "//redo"
+    permission: we.commands.redo
+  /flip:
+    description: Virar a área de transferência de //copy
+    usage: "//flip <x|y|z>"
+    permission: we.commands.flip
+  /wand:
+    description: Maneira mais rápida de selecionar a área. Quebre -> pos1 Toque -> pos2
+    usage: "//wand"
+    permission: we.commands.wand
+  /schem:
+    description: Esquemático import + pasting + export
+    usage: "//schem <load> <nome do arquivo> | //schem <paste> <nome do arquivo> | //schem <save|export> <nome do arquivo>"
+    permission: we.commands.schem
+  /cyl:
+    description: Cria um cilindro
+    usage: "//cyl <bloco> <largura> [altura]"
+    permission: we.commands.cyl
+  /hcyl:
+    description: Cria um cilindro oco
+    usage: "//hcyl <bloco> <largura> [altura]"
+    permission: we.commands.hcyl
+  /:
+    description: MagicWE help
+    usage: "Comandos §7[§aMWE§7]\n§aTraduzido por §bLucasGamer§f\n \n//copy ,//cyl ,//flip ,//hcyl ,//help ,//paste ,//pos1 ,//pos2 ,//redo ,//replace ,//schem ,//set ,//undo ,//wand "
+    permission: we.commands.help
+  /help:
+    description: MagicWE help
+    usage: "Comandos §7[§aMWE§7]\n§aTraduzido por §bLucasGamer§f\n \n//copy ,//cyl ,//flip ,//hcyl ,//help ,//paste ,//pos1 ,//pos2 ,//redo ,//replace ,//schem ,//set ,//undo ,//wand"
+    permission: we.commands.help
+permissions:
+  we.commands.admin:
+    default: op
+    description: "Permissão para todos os comandos MagicWE"
+  we.commands.pos:
+    default: op
+    description: "Permissão para //pos1 e //pos2"
+  we.commands.set:
+    default: op
+    description: "Permissão para //set"
+  we.commands.replace:
+    default: op
+    description: "Permissão para //replace"
+  we.commands.copy:
+    default: op
+    description: "Permissão para //copy"
+  we.commands.paste:
+    default: op
+    description: "Permissão para //paste"
+  we.commands.undo:
+    default: op
+    description: "Permissão para //undo"
+  we.commands.redo:
+    default: op
+    description: "Permissão para //redo"
+  we.commands.flip:
+    default: op
+    description: "Permissão para //flip"
+  we.commands.wand:
+    default: op
+    description: "Permissão para //wand E ferramenta de seleção de varinha"
+  we.commands.schem:
+    default: op
+    description: "Permissão para //schem"
+  we.commands.cyl:
+    default: op
+    description: "Permissão para //cyl"
+  we.commands.hcyl:
+    default: op
+    description: "Permissão para //hcyl"
+  we.commands.help:
+    default: op
+    description: "Permissão para help"

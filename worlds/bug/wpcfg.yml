@@ -1,0 +1,21 @@
+---
+pvp: true
+banitem:
+  290: Wooden Hoe
+  291: Stone Hoe
+  292: Iron Hoe
+  293: Diamond Hoe
+  29: STICKY PISTON
+  294: Gold Hoe
+  273: Stone Shovel
+  256: Iron Shovel
+  284: Gold Shovel
+  277: Diamond Shovel
+  325: Bucket
+  9: Still Water
+  269: Wooden Shovel
+  276: Diamond Sword
+bancmds:
+  /fly: /fly
+protect: protect
+...

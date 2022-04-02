@@ -1,0 +1,7 @@
+name: KillAlert
+author: PondKung
+version: 1.0.0
+main: KillAlert\Main
+api: [2.0.0]
+Dependency: DevTools
+

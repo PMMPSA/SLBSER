@@ -1,0 +1,29 @@
+# Messages 1vs1 config.
+# Use colors with "&" or "§". You can find any help about formating codes here : http://minecraft.gamepedia.com/Formatting_codes .
+# Plugin by Minifixio.
+
+---
+###############
+#Queue messages
+###############
+queue_join: "§c§lคุณ§6ได้§eเข้า§aร่วม §c1§fv§7s§91 §bเเล้ว§4!"
+queue_playersinqueue: "§e§lกรุณารอ§6ผู้เล่น§eอีก&a : &2 "
+queue_popup: "§6§lได้เข้าร่วม §c1§fv§7s§91 §bเเล้ว§a!"
+queue_alreadyinqueue: "§6§lคุณได้อยู่ใน§c1§fv§7s§91§e§lเเล้ว§c!!"
+
+##############
+#Duel messages
+##############
+duel_tip: "&6§lเริ่มเกม§a.."
+duel_against: "§l&6&l>> §eคู่ต่อสู้ของคุณ §aคือ &4 "
+duel_start: "&f&l++++++++=++++++++\n&6>§aเกมเริ่มต้นเเล้ว!\n&6> §bมี§aเวลา &23 §bนาที !\n&6> ขอให้โชคดี :) !\n&f&l++++++++=++++++++"
+duel_winner: "&6&l> §eโหดมากคุณชน่ะ §f:&4 "
+duel_loser: "&6&l> §cคุณแพ้ดวลกับ §f: &4 "
+duel_broadcast: " &b&lได้ทำการฆ่า§c "
+duel_timeover: "&f&l++++++++=++++++++\n&6>§eหมดเวลาในการดวล!\n&f&l++++++++=++++++++"
+
+###############
+#Arena messages
+###############
+arena_alreadyinarena: "§6§lคุณได้อยู่ใน§c1§fv§7s§91§e§lเเล้ว§c!!"
+...

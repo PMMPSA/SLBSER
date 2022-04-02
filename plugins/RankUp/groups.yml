@@ -1,0 +1,903 @@
+---
+groups:
+  Alv1:
+    entrance:
+    - setgroup {name} Alv1
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §b1 §eเเล้ว
+    - addcash {name} 1
+    exit: []
+    perms: []
+    members:
+      1: APSER
+      14: MarsDeeCraft
+      20: catkunGz
+      30: Tnzaza12345
+      32: ExcvTAE
+      36: Toey_Gamer
+      39: poyy223
+      40: Tanatron
+      42: LnwZaKunpanZ
+      44: TNTman
+      46: C4TH
+      48: Tenny
+      50: KAXKunGz
+      55: Iphone8s
+      59: WEE_kunG_YT
+      60: ExoHearth
+      64: StateBow5467779
+      66: NuTTH
+      68: Tee_Vido
+      72: KzThailand
+      76: AsuraMC
+      78: Riser_Gamnig
+      81: ItzFRZoE072
+      84: 3Time
+      88: gduiwfdy82g
+      89: KTGH
+      94: KIM_KUNG
+      97: NaNisang
+      98: KingOfGamer
+      101: love_mo
+      107: PTGamer
+      108: teefay
+      109: qqq1
+      114: park
+      118: ItoVerlord
+      119: mounkyyyy
+      121: tep555
+      123: FAIY_NAJA
+      124: Tom
+      126: titlenunu10
+      128: noob_apple
+      129: GMC_Studio
+      130: BlitherPencil
+      132: IJENG
+      133: KongMasterTV
+      135: GM_NooB
+      136: FASRI_Studio
+      137: HACKmJFAUOP
+      139: ReverentVeil730
+      140: toomtamm
+      141: Cat
+      143: Cash_gamerZZZ
+      144: NeverDine
+      145: MIX
+      146: YOUGUN
+      147: Destroyer
+      148: BawPee
+      149: Shimata_XD
+      151: orto01
+      152: PondUC
+      153: TagKungji
+      154: TAO_HELLO
+      156: film2019
+      157: F_5599
+      158: Kachiki_1112
+      159: youro1010
+      161: GainedEmpress24
+      162: lexna9a
+  Alv2:
+    entrance:
+    - setgroup {name} Alv2
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §b2 §eเเล้ว
+    exit: []
+    perms: []
+    members:
+      7: CasterMisaki
+      12: TeeEZ_GameTV
+      14: lopkmztvzzz
+      15: jvjah
+      17: KairuykungTH
+      19: TexNoz_Fillz
+      28: ArmKillErz
+      33: Toey_Gamer_TV
+      42: xDeLayz
+      50: RBBGAMER_
+      53: MR_NoName
+      55: beerlnw
+      56: Kendokrab_TRv
+      58: _ItzFweTB_
+      59: marshmello_
+      60: TzOoPz4
+      61: IceGamerZa_CH
+      63: 12aer
+      64: viv
+      65: TeeraM
+      70: GamerAGV
+      71: DashingImp97798
+      72: zxcvbnma
+  Alv3:
+    entrance:
+    - setgroup {name} Alv3
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §b3 §eเเล้ว
+    exit: []
+    perms: []
+    members:
+      14: XD18799
+      18: Timechannel123
+      20: fzaza555
+      22: _Pikachu_
+      25: TKGMCH1
+      26: minkillgamer
+      29: meengamerTV
+      31: plai9993525P
+      32: Jopap
+      34: DeeoChannel147
+      35: xexBENZxex
+      38: knat2544
+      40: Permzertv
+      41: Pon_gaming_th
+      42: deggaeg
+  Alv4:
+    entrance:
+    - setgroup {name} Alv4
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §b4 §eเเล้ว
+    exit: []
+    perms: []
+    members:
+      0: SaguraChan
+      4: _PikaChu_
+      8: Mi_MiKaNg04
+      9: Steve765
+      10: Preiw_Minemy
+      13: zaza32452
+  Alv5:
+    entrance:
+    - setgroup {name} Alv5
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §b5 §eเเล้ว
+    exit: []
+    perms: []
+    members:
+      9: VacuolarFoil787
+      11: KpK
+      12: KanzaKunGz
+      14: xKimx
+  Alv6:
+    entrance:
+    - setgroup {name} Alv6
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §b6 §eเเล้ว
+    exit: []
+    perms: []
+    members:
+      6: xXKillr_BentoXx
+      8: KINGFINO
+      9: CGGG
+      10: Steve_noob
+      15: Itzkamel
+      16: Szkkk_tv
+      20: YAKUZA_TH
+      24: Plai9993525P
+      25: MintSorry_
+      28: joe01
+      30: NaYes_kung
+  Alv7:
+    entrance:
+    - setgroup {name} Alv7
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §b7 §eเเล้ว
+    exit: []
+    perms: []
+    members:
+      3: Rotting
+      5: kk1993cz
+      6: Lnwza655
+      12: SplitSinger5213
+      13: PINO2814
+      14: AEVGAME
+      15: SealedCactus194
+      16: SAYFA
+      17: Bankkung00
+      18: SLX_Xcom
+  Alv8:
+    entrance:
+    - setgroup {name} Alv8
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §b8 §eเเล้ว
+    exit: []
+    perms: []
+    members:
+      0: Marsdeecraft
+      1: xNOOBPVPx
+      6: SAVE
+      7: ManU_TH
+      8: nigh2timeskin
+  Alv9:
+    entrance:
+    - setgroup {name} Alv9
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §b9 §eเเล้ว
+    exit: []
+    perms: []
+    members:
+    - SToKINGDOMo
+  Alv10:
+    entrance:
+    - setgroup {name} Alv10
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §b10 §eเเล้ว
+    exit: []
+    perms: []
+    members:
+      9: jesster
+      10: _Plabkung
+      12: MaiTv
+      16: JEA
+  AlvMax:
+    entrance:
+    - setgroup {name} AlvMax
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §l§a•§cพ§eล§cเ§eม§cื§eอ§cง§a• §eMax §eเเล้ว
+    - say {name} §e§lปลดล็อคคำสั่ง §f/heal §eเเล้ว
+    exit: []
+    perms: []
+    members:
+      20: NTN
+      24: Royer
+      36: khatekungChannel
+      40: shockingtackle
+  Blv1:
+    entrance:
+    - setgroup {name} Blv1
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §d❤§fH§7E§bR§eO§d❤ §e[§a1§e]
+    exit: []
+    perms: []
+    members:
+      0: TiEWZKUNG
+      8: oEvilClan
+      11: Lwnpvp_
+      12: TAE_HELLO
+      18: setsu_
+      21: TerKillerTH
+      25: AJZA123
+      26: NaNiSang
+      29: Zukacggg
+      31: NineHard
+      32: xX_Kitty_Xx
+      35: TNT303
+  Blv2:
+    entrance:
+    - setgroup {name} Blv2
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §d❤§fH§7E§bR§eO§d❤ §e[§a2§e]
+    exit: []
+    perms: []
+    members:
+      3: MustKunG
+      9: kirito
+      13: Starlight
+      16: _PlabKung
+      17: Skykung
+      18: PronYTCH
+      19: bia12345678
+      21: BloodyRose
+      22: Anfield
+      23: ItzGamerZz
+  Blv3:
+    entrance:
+    - setgroup {name} Blv3
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §d❤§fH§7E§bR§eO§d❤ §e[§a3§e]
+    exit: []
+    perms: []
+    members:
+      0: STEVE_NOOB
+      4: ItSayHi
+      5: XEK_CH
+      9: gunAK47
+      10: ArmKub_eiei
+  Blv4:
+    entrance:
+    - setgroup {name} Blv4
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §d❤§fH§7E§bR§eO§d❤ §e[§a4§e]
+    exit: []
+    perms: []
+    members:
+      0: CraNelXx
+      2: Jack_THE_Ripper
+      3: LolyPoP
+      4: Fbng
+  Blv5:
+    entrance:
+    - setgroup {name} Blv5
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §d❤§fH§7E§bR§eO§d❤ §e[§a5§e]
+    exit: []
+    perms: []
+    members:
+      0: Korocker
+      2: _KIMMY_
+      8: gggg
+  Blv6:
+    entrance:
+    - setgroup {name} Blv6
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §d❤§fH§7E§bR§eO§d❤ §e[§a6§e]
+    exit: []
+    perms: []
+    members:
+      1: Nucha_kung
+      3: Steve7061
+      6: _ItzMonCD_
+  Blv7:
+    entrance:
+    - setgroup {name} Blv7
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §d❤§fH§7E§bR§eO§d❤ §e[§a7§e]
+    exit: []
+    perms: []
+    members:
+      0: FaNoz_Fillz
+      2: Aper_Thz
+      3: XxPATxX
+  Blv8:
+    entrance:
+    - setgroup {name} Blv8
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §d❤§fH§7E§bR§eO§d❤ §e[§a8§e]
+    exit: []
+    perms: []
+    members:
+    - _zClyonE
+    - Jab_Tv
+  Blv9:
+    entrance:
+    - setgroup {name} Blv9
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §d❤§fH§7E§bR§eO§d❤ §e[§a9§e]
+    exit: []
+    perms: []
+    members:
+      4: IcHiTan
+      6: Muzard
+      10: Excosmic
+      11: DairyJoker69461
+  Blv10:
+    entrance:
+    - setgroup {name} Blv10
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §d❤§fH§7E§bR§eO§d❤ §e[§a10§e]
+    exit: []
+    perms: []
+    members:
+      5: ZSkinGamer
+      6: Na_Channel_girl
+      7: jjtv_chael
+      9: may_cing
+      10: PermTV
+  BlvMax:
+    entrance:
+    - setgroup {name} BlvMax
+    - say {name} §e§lได้§6อัป§eยศ§6เป็น §f| §d❤§fH§7E§bR§eO§d❤ §e[§aMax§e]
+    - say {name} §e§lปลดล็อคคำสั่ง §f/feed §eเเล้ว§c!!
+    exit: []
+    perms: []
+    members:
+      3: Cooked_TV
+      14: InNoCenT
+      17: BotX2
+      18: _ItzBqck_Zick
+      21: _ItzPika_
+      22: Lqnerspn
+      25: Mounkyyyy
+      27: Mint
+      28: MinePlay2
+  Clv1:
+    entrance:
+    - setgroup {name} Clv1
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§b✿§e§lจ§aอ§eม§aม§eา§aร§b✿
+      §b[§f1§b] §aเ§fเ§aล§f้§aว
+    exit: []
+    perms: []
+    members:
+      3: BGNY
+      6: sNowAek
+      9: FlahyKiyh
+      14: Peth
+      15: EighteenSatyr82
+      16: Singtogm_CH
+      17: PornHub_M1
+      22: PhonixBird
+  Clv2:
+    entrance:
+    - setgroup {name} Clv2
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§b✿§e§lจ§aอ§eม§aม§eา§aร§b✿
+      §b[§f2§b] §aเ§fเ§aล§f้§aว
+    exit: []
+    perms: []
+    members:
+      1: koonbew__TV
+      2: Notjimakeup
+  Clv3:
+    entrance:
+    - setgroup {name} Clv3
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§b✿§e§lจ§aอ§eม§aม§eา§aร§b✿
+      §b[§f3§b] §aเ§fเ§aล§f้§aว
+    exit: []
+    perms: []
+    members:
+      0: DragonXI
+      4: C4181
+  Clv4:
+    entrance:
+    - setgroup {name} Clv4
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§b✿§e§lจ§aอ§eม§aม§eา§aร§b✿
+      §b[§f4§b] §aเ§fเ§aล§f้§aว
+    exit: []
+    perms: []
+    members:
+      0: TaN_KunGTH
+      1: AZHON
+      3: GWOBUkG
+      5: TanKunGz
+      6: TagKunGji
+  Clv5:
+    entrance:
+    - setgroup {name} Clv5
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§b✿§e§lจ§aอ§eม§aม§eา§aร§b✿
+      §b[§f5§b] §aเ§fเ§aล§f้§aว
+    exit: []
+    perms: []
+    members:
+    - Steve_Noob
+    - SOS007
+  ClvMax:
+    entrance:
+    - setgroup {name} ClvMax
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§b✿§e§lจ§aอ§eม§aม§eา§aร§b✿
+      §b[§cMax§b] §aเ§fเ§aล§f้§aว
+    - give {name} 388 1000
+    - bcast §e{name} §f§lได้รับ §aมรกต §e1000 §c!
+    exit: []
+    perms: []
+    members:
+    - RedPolice
+  Dlv1:
+    entrance:
+    - setgroup {name} Dlv1
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§6【§eอ§aສ§bุ§dຮ§fา§6】 §l§a◤§e1§c⭐§a◢
+    exit: []
+    perms: []
+    members:
+      5: PoohSmS
+      6: Chinnapong
+  Dlv2:
+    entrance:
+    - setgroup {name} Dlv2
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§6【§eอ§aສ§bุ§dຮ§fา§6】 §l§a◤§e2§c⭐§a◢
+    exit: []
+    perms: []
+    members: []
+  Dlv3:
+    entrance:
+    - setgroup {name} Dlv3
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§6【§eอ§aສ§bุ§dຮ§fา§6】 §l§a◤§e3§c⭐§a◢
+    exit: []
+    perms: []
+    members:
+      0: EQYfg5
+      2: PHONEZER_GAME
+      3: IG_Pikach_whan
+      4: PeachKy
+  Dlv4:
+    entrance:
+    - setgroup {name} Dlv4
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§6【§eอ§aສ§bุ§dຮ§fา§6】 §l§a◤§e4§c⭐§a◢
+    exit: []
+    perms: []
+    members:
+    - Monrada
+    - MrKayGamer
+    - _ItsHUGGo
+    - Slop
+    - TagKungJi
+  Dlv5:
+    entrance:
+    - setgroup {name} Dlv5
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§6【§eอ§aສ§bุ§dຮ§fา§6】 §l§a◤§e5§c⭐§a◢
+    exit: []
+    perms: []
+    members:
+      3: GGFrame_Thailand
+      4: Huzson
+      5: WoRRY_30Y
+      7: MrsompopYT
+  Dlv6:
+    entrance:
+    - setgroup {name} Dlv6
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§6【§eอ§aສ§bุ§dຮ§fา§6】 §l§a◤§e6§c⭐§a◢
+    exit: []
+    perms: []
+    members:
+      0: TaeNoizXD
+      2: Mintsorry
+  Dlv7:
+    entrance:
+    - setgroup {name} Dlv7
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§6【§eอ§aສ§bุ§dຮ§fา§6】 §l§a◤§e7§c⭐§a◢
+    exit: []
+    perms: []
+    members:
+      0: Bamdot_comTV
+      2: GWOBUKG
+      4: Mzope
+  Dlv8:
+    entrance:
+    - setgroup {name} Dlv8
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§6【§eอ§aສ§bุ§dຮ§fา§6】 §l§a◤§e8§c⭐§a◢
+    exit: []
+    perms: []
+    members: []
+  Dlv9:
+    entrance:
+    - setgroup {name} Dlv9
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§6【§eอ§aສ§bุ§dຮ§fา§6】 §l§a◤§e9§c⭐§a◢
+    exit: []
+    perms: []
+    members: []
+  Dlv10:
+    entrance:
+    - setgroup {name} Dlv10
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§6【§eอ§aສ§bุ§dຮ§fา§6】 §l§a◤§e10§c⭐§a◢
+    exit: []
+    perms: []
+    members: []
+  DlvMax:
+    entrance:
+    - setgroup {name} DlvMax
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§6【§eอ§aສ§bุ§dຮ§fา§6】 §l§a◤§cMax§e⭐§a◢
+    - bcast §b{name} §eรับเเคสจากการอัปยศ §f20§a$
+    - addcash {name} 20
+    exit: []
+    perms: []
+    members:
+      13: q0o0p
+  Elv1:
+    entrance:
+    - setgroup {name} Elv1
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§e『§61§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗
+    exit: []
+    perms: []
+    members:
+      0: ASDTFr
+      10: PayGamerYT
+      12: mon12
+      13: TUMI
+      14: pootiwatk2561
+  Elv2:
+    entrance:
+    - setgroup {name} Elv2
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§e『§62§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗
+    exit: []
+    perms: []
+    members:
+    - kileto_khung
+  Elv3:
+    entrance:
+    - setgroup {name} Elv3
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§e『§63§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗
+    exit: []
+    perms: []
+    members:
+    - PAO_GamerTV
+    - mZSmon
+  Elv4:
+    entrance:
+    - setgroup {name} Elv4
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§e『§64§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗
+    exit: []
+    perms: []
+    members:
+      1: xZeLs
+      5: Filoz
+      7: Ken_Kung
+  Elv5:
+    entrance:
+    - setgroup {name} Elv5
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§e『§65§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗
+    exit: []
+    perms: []
+    members:
+      0: THEZO_RUMBEER
+      3: xDeLayZ
+      4: XxTiwgamerxX
+      7: pao_gamertv
+      8: AshiraMC
+  Elv6:
+    entrance:
+    - setgroup {name} Elv6
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§e『§66§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗
+    exit: []
+    perms: []
+    members:
+      0: SwiftKey_
+      2: Zomaster
+  Elv7:
+    entrance:
+    - setgroup {name} Elv7
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§e『§67§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗
+    exit: []
+    perms: []
+    members: []
+  Elv8:
+    entrance:
+    - setgroup {name} Elv8
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§e『§68§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗
+    exit: []
+    perms: []
+    members: []
+  Elv9:
+    entrance:
+    - setgroup {name} Elv9
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§e『§69§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗
+    exit: []
+    perms: []
+    members: []
+  Elv10:
+    entrance:
+    - setgroup {name} Elv10
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§e『§610§a☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗
+    exit: []
+    perms: []
+    members: []
+  ElvMax:
+    entrance:
+    - setgroup {name} ElvMax
+    - bcast §f{name} §c§lอ§6ั§cป§6ย§cศ§6เ§cป§6็§cน§f | §l§e『§6Max§c☆§e』 §f〖§a§lร§eา§bม§dส§f§6ูร§f〗
+    - bcast §f§l{name} §bปลดล็อคคำสัง §e/nick §aเเล้ว
+    exit: []
+    perms: []
+    members: []
+  Flv1:
+    entrance:
+    - setgroup {name} Flv1
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร
+      §l§b『§e1§a☆§b』
+    exit: []
+    perms: []
+    members:
+      2: NomacroX
+      3: Nuttanun46
+      4: TexNoz
+      8: MinoruAAA
+      9: bankkung01
+      10: _16Freddy_
+      11: BenzTheGGr
+  Flv2:
+    entrance:
+    - setgroup {name} Flv2
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร
+      §l§b『§e2§a☆§b』
+    exit: []
+    perms: []
+    members:
+      0: _ItzPiKa_
+      2: ItzKamel
+      4: Game119
+      7: Trm123pvp
+  Flv3:
+    entrance:
+    - setgroup {name} Flv3
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร
+      §l§b『§e3§a☆§b』
+    exit: []
+    perms: []
+    members:
+      2: MANKUNGTV
+      3: MaY
+      4: Bosser
+      5: PAO_GAMERTV
+      6: XKKungChannel
+  Flv4:
+    entrance:
+    - setgroup {name} Flv4
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร
+      §l§b『§e4§a☆§b』
+    exit: []
+    perms: []
+    members:
+    - EKZGamerTH
+  Flv5:
+    entrance:
+    - setgroup {name} Flv5
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร
+      §l§b『§e5§a☆§b』
+    exit: []
+    perms: []
+    members: []
+  Flv6:
+    entrance:
+    - setgroup {name} Flv6
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร
+      §l§b『§e6§a☆§b』
+    exit: []
+    perms: []
+    members:
+    - GamerDoin
+    - ItZoNe
+  Flv7:
+    entrance:
+    - setgroup {name} Flv7
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร
+      §l§b『§e7§a☆§b』
+    exit: []
+    perms: []
+    members:
+      4: xSoJeRKunGz
+      5: MELODY_DAS
+  Flv8:
+    entrance:
+    - setgroup {name} Flv8
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร
+      §l§b『§e8§a☆§b』
+    exit: []
+    perms: []
+    members: []
+  Flv9:
+    entrance:
+    - setgroup {name} Flv9
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร
+      §l§b『§e9§a☆§b』
+    exit: []
+    perms: []
+    members: []
+  Flv10:
+    entrance:
+    - setgroup {name} Flv10
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร
+      §l§b『§e10§a☆§b』
+    exit: []
+    perms: []
+    members: []
+  FlvMax:
+    entrance:
+    - setgroup {name} FlvMax
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §e☃§6ด§cั§6บ§cม§6ั§cง§6ก§cร
+      §l§b『§eMax§a☆§b』
+    - bcast §f§l{name} §6ปลดล็อคคำสั้ง §f/fly §6เเล้ว§a!!
+    exit: []
+    perms: []
+    members:
+      1: Black_Ninght_Ch
+      2: PasinGamer01
+      4: NontokkunG
+      6: BooM
+      8: BasGamingStudio
+      9: cch_tv
+      10: _BumBam_
+  Glv1:
+    entrance:
+    - setgroup {name} Glv1
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §l§c⚒§bU§al§ft§6r§da§c⚒ §4✝§61§a☯§4✝
+      §eเเล้ว§c!
+    exit: []
+    perms: []
+    members:
+      1: TaKranKung
+      4: ItzFeWTB
+  Glv2:
+    entrance:
+    - setgroup {name} Glv2
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §l§c⚒§bU§al§ft§6r§da§c⚒ §4✝§62§a☯§4✝
+      §eเเล้ว§c!
+    exit: []
+    perms: []
+    members:
+    - NuT
+    - NOEYf_
+  Glv3:
+    entrance:
+    - setgroup {name} Glv3
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §l§c⚒§bU§al§ft§6r§da§c⚒ §4✝§63§a☯§4✝
+      §eเเล้ว§c!
+    exit: []
+    perms: []
+    members: []
+  Glv4:
+    entrance:
+    - setgroup {name} Glv4
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §l§c⚒§bU§al§ft§6r§da§c⚒ §4✝§64§a☯§4✝
+      §eเเล้ว§c!
+    exit: []
+    perms: []
+    members: []
+  Glv5:
+    entrance:
+    - setgroup {name} Glv5
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §l§c⚒§bU§al§ft§6r§da§c⚒ §4✝§65§a☯§4✝
+      §eเเล้ว§c!
+    exit: []
+    perms: []
+    members: []
+  Glv6:
+    entrance:
+    - setgroup {name} Glv6
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §l§c⚒§bU§al§ft§6r§da§c⚒ §4✝§66§a☯§4✝
+      §eเเล้ว§c!
+    exit: []
+    perms: []
+    members: []
+  Glv7:
+    entrance:
+    - setgroup {name} Glv7
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §l§c⚒§bU§al§ft§6r§da§c⚒ §4✝§67§a☯§4✝
+      §eเเล้ว§c!
+    exit: []
+    perms: []
+    members: []
+  Glv8:
+    entrance:
+    - setgroup {name} Glv8
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §l§c⚒§bU§al§ft§6r§da§c⚒ §4✝§68§a☯§4✝
+      §eเเล้ว§c!
+    exit: []
+    perms: []
+    members:
+    - GhomnstGamng
+  Glv9:
+    entrance:
+    - setgroup {name} Glv9
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §l§c⚒§bU§al§ft§6r§da§c⚒ §4✝§69§a☯§4✝
+      §eเเล้ว§c!
+    exit: []
+    perms: []
+    members: []
+  Glv10:
+    entrance:
+    - setgroup {name} Glv10
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §l§c⚒§bU§al§ft§6r§da§c⚒ §4✝§610§a☯§4✝
+      §eเเล้ว§c!
+    exit: []
+    perms: []
+    members: []
+  GlvMax:
+    entrance:
+    - setgroup {name} GlvMax
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §l§c⚒§bU§al§ft§6r§da§c⚒ §4✝§6Max§a☯§4✝
+      §eเเล้ว§c!
+    - bcast §c{name} §eได้รับเงิน §a20§bM §bเเล้ว§c!
+    - givemoney {name} 20000000
+    exit: []
+    perms: []
+    members:
+      3: ZELOS
+  Hlv1:
+    entrance:
+    - setgroup {name} Hlv1
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §l§d◣§c1§s◥ §e♻§l§aพ§6ร§eี§bเ§dม§fี§c่§aย§6ม§e♻
+      §eเเล้ว§c!
+    exit: []
+    perms: []
+    members:
+    - Jacker
+    - Nra_u
+  Hlv2:
+    entrance:
+    - setgroup {name} Hlv2
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §l§d◣§c2§s◥ §e♻§l§aพ§6ร§eี§bเ§dม§fี§c่§aย§6ม§e♻
+      §eเเล้ว§c!
+    exit: []
+    perms: []
+    members: []
+  Hlv3:
+    entrance:
+    - setgroup {name} Hlv3
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §l§d◣§c3§s◥ §e♻§l§aพ§6ร§eี§bเ§dม§fี§c่§aย§6ม§e♻
+      §eเเล้ว§c!
+    exit: []
+    perms: []
+    members: []
+  Hlv4:
+    entrance:
+    - setgroup {name} Hlv4
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §l§d◣§c4§s◥ §e♻§l§aพ§6ร§eี§bเ§dม§fี§c่§aย§6ม§e♻
+      §eเเล้ว§c!
+    exit: []
+    perms: []
+    members: []
+  Hlv5:
+    entrance:
+    - setgroup {name} Hlv5
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §l§d◣§c5§s◥ §e♻§l§aพ§6ร§eี§bเ§dม§fี§c่§aย§6ม§e♻
+      §eเเล้ว§c!
+    exit: []
+    perms: []
+    members: []
+  HlvMax:
+    entrance:
+    - setgroup {name} HlvMax
+    - bcast §f{name} §l§bอ§fั§bป§fย§bศ§fเ§bป§f็§bน §4| §l§d◣§cMax§s◥ §e♻§l§aพ§6ร§eี§bเ§dม§fี§c่§aย§6ม§e♻
+      §eเเล้ว§c!
+    exit: []
+    perms: []
+    members:
+    - BANKRTDV
+    - SecretX
+    - hunto321
+...

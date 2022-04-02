@@ -1,0 +1,104 @@
+MeLoNyPE Crash Dump Mon Mar 25 09:42:56 ALMT 2019
+
+Error: Nesting level too deep - recursive dependency?
+File: /Plugins/BossBar/src/BANKRTDV/BossBar/Main
+Line: 53
+Type: E_ERROR
+
+THIS CRASH WAS CAUSED BY A PLUGIN
+BAD PLUGIN : BossBar v1.1.1
+
+Code:
+[44] 				$this->getServer()->getLogger()->debug('Sendt BossAnnouncement with existing EID: ' . $this->eid);
+[45] 			}
+[46] 		}
+[47] 	}
+[48] 	//////
+[49] 	//fix mode 2
+[50] 
+[51] 	public function onLevelChange(EntityLevelChangeEvent $ev) {
+[52] 		if ($ev->isCancelled()) return;
+[53] 		if (in_array($ev->getTarget(), $this->getWorlds())) {
+[54] 			if ($this->eid === null) {
+[55] 				$this->eid = API::addBossBar([$ev->getEntity()], 'Loading..');
+[56] 				$this->getServer()->getLogger()->debug($this->eid === NULL ? 'Couldn\'t add BossAnnouncement' : 'Successfully added BossAnnouncement with EID: ' . $this->eid);
+[57] 			} else {
+[58] 				API::removeBossBar([$ev->getEntity()], $this->eid);
+[59] 				API::sendBossBarToPlayer($ev->getEntity(), $this->eid, $this->getText($ev->getEntity()));
+[60] 				$this->getServer()->getLogger()->debug('Sendt BossAnnouncement with existing EID: ' . $this->eid);
+[61] 			}
+[62] 		} else {
+[63] 			API::removeBossBar([$ev->getEntity()], $this->eid);
+
+Backtrace:
+#0 (): pocketmine\Server->crashDump(boolean)
+
+Genisys version: 0000000000000000000000000000000000000000 [Protocol 113; API 3.0.1]
+uname -a: Windows NT WIN-JRE74V0K1B1 6.3 build 9600 (Windows Server 2012 R2 Standard Edition) AMD64
+PHP version: 7.0.3
+Zend version: 3.0.0
+OS : WINNT, win
+
+Server uptime: 52 minutes 33 seconds
+Number of loaded worlds: 9
+Players online: 7/35
+
+Loaded plugins:
+AdvancedMOTD 1.0.1 by Philip Shilling for API(s) 1.12.0
+Broadcaster 1.16 by EvolSoft for API(s) 1.12.0
+SClearLagg 1 by Sergey_Dertan for API(s) 1.8.0
+CommandBlocker 1.5.5 by Thunder33345 for API(s) 2.0.0
+DevTools 1.10.0 by PocketMine Team for API(s) 1.0.0, 1.1.0, 1.2.0, 1.2.1, 3.0.0-ALPHA6, 3.0.0-ALPHA5, 3.0.0-ALPHA4, 2.0.0
+iProtector 3.1.LucasGamer610 by LDX for API(s) 2.1.0, 2.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0
+ItemName 0.2german by HippoPlayz for API(s) 2.0.0, 3.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3
+KillChat 1.0.2.MOD by Array for API(s) 1.9.0, 2.0.0
+KillMoney 0.1 by Hamooz0001 for API(s) 2.0.0
+PurePerms 1.3.5 by 64FF00 for API(s) 1.13.0, 2.0.0
+ServerAuth 2.13 by EvolSoft for API(s) 1.11.0
+SlapperRotation 1.0.1 by jojoe77777 for API(s) 1.0.0, 1.1.0, 1.2.0, 1.2.1, 3.0.0-ALPHA6, 3.0.0-ALPHA5, 3.0.0-ALPHA4, 2.0.0
+superBAR 1.5.2 by FaigerSYS for API(s) 1.13.0, 2.0.0
+TapToDo 2.2.1 by Falk for API(s) 1.0.0
+1vs1 0.0.5 by  for API(s) 1.0.0, 1.1.0
+MagicWE 0.2.4.LucasGamer by thebigsmileXD for API(s) 2.1.0, 2.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0
+EconomyAPI 2.0.9 by onebone for API(s) 2.0.0
+ManyWorlds 2.0.3 by aliuly for API(s) 2.0.0, 1.13.0
+FlyAPI 1.0 by FairSYS for API(s) 2.0.0, 3.0.0-ALPHA6, 3.0.0-ALPHA7
+WorldProtect 2.2.0 by aliuly for API(s) 1.10.0, 1.12.0
+AdvertisingKick 1.0.0 by  for API(s) 1.0.0
+AnitMsg 1.0.0 by BANKRTDV for API(s) 3.0.0-ALPHA3
+BauWin 1 by yHwinT for API(s) 2.0.0
+BossBarAPI 4.0.0 by BANKRTDV for API(s) 2.0.0, 3.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3
+Buffalo 0.0.1 by Buffalo for API(s) 1.0.0, 1.1.0, 2.0.0
+Buyfix 1.0.0 by ฟรองซ์ เอง for API(s) 3.0.0-ALPHA2
+Cash 1 by DanielYTK for API(s) 2.0.0
+CashRandoms 1 by Bankrtdv for API(s) 1.0.0, 1.1.0, 2.0.0
+ChatDefender 2.0.0 by Falkirks for API(s) 1.6.0
+EconomyCShop 0.5.4 by FAMIMA for API(s) 1.0.0, 1.1.0, 1.2.0, 1.2.1, 3.0.0-ALPHA6, 3.0.0-ALPHA5, 3.0.0-ALPHA4, 2.0.0
+Disable_TNT 0.1 by  for API(s) 2.0.0
+EncantarAPI 2 by Hender Plugner for API(s) 2.0.0, 2.1.0, 3.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3
+EssentialsPE 2.0.0 by LegendsOfMCPE Team for API(s) 2.1.0, 2.0.0
+FactionsPro 1.3.7_th by birdkkk for API(s) 2.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3, 3.0.0-ALPHA4
+JQDSounds 4 by UltimateDevs for API(s) 1.0.0, 1.1.0, 1.2.0, 1.2.1, 3.0.0-ALPHA6, 3.0.0-ALPHA5, 3.0.0-ALPHA4, 2.0.0
+KeepInventory 1.2.0 by boybook for API(s) 1.0.0
+KillerHeal 1 by JUZEXMOD for API(s) 2.0.0
+KillAlert 1.0.0 by PondKung for API(s) 2.0.0
+Kiss 1 by ฟรองซ์เอง for API(s) 3.0.0, 2.1.0
+MineLevel 0.1 by KingofPro and Minh1999 for API(s) 3.1.2
+MyApi 1 by BANKRTDV for API(s) 1.0.0
+Mystery 0.0.1 by Mystery for API(s) 1.0.0, 1.1.0, 2.0.0
+OnlineItem 5.0b1 by BANKRTDV for API(s) 3.0.0, 3.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3, 3.0.0-ALPHA4, 3.0.0-ALPHA5, 3.0.0-ALPHA6, 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.1
+PVPlevelRPG 6.9.LucasGamer610 by ByZikenPE for API(s) 1.0.0, 1.12.1, 1.12.0, 1.13.0, 1.13.1, 2.0.0, 2.1.0, 3.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3, 3.0.0-ALPHA4
+RestartMe 1.2.0 by Gamecrafter for API(s) 1.10.0
+Shopapi 1 by bankrtdv for API(s) 2.0.0
+Shopse 1 by bankrtdv for API(s) 2.0.0
+SkyBlock 0.1.7 by GiantQuartz for API(s) 2.0.0, 3.0.0, 3.0.0-ALPHA5, 3.0.0-ALPHA6
+Slapper 1.3.3 by jojoe77777 for API(s) 3.0.0-ALPHA4
+SwordAtk 1 by BANKRTDV for API(s) 1.0.0
+TimeCommander 2.1 by LDX for API(s) 1.0.0, 2.0.0
+Trem 1 by bankrtdv for API(s) 2.0.0
+wedth 1.0.4 by ฟรองซ์ for API(s) 1.0.0, 1.1.0, 1.2.0, 1.2.1, 3.0.0-ALPHA6, 3.0.0-ALPHA5, 3.0.0-ALPHA4, 2.0.0
+EconomySell 2.0.7 by onebone for API(s) 1.12.0
+EconomyShop 2.0.7 by onebone for API(s) 1.12.0
+BossBar 1.1.1 by BANKRTDV for API(s) 2.0.0, 3.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3
+PureChat 1.4.0 by 64FF00 for API(s) 1.13.0, 2.0.0
+RankUp 0.3.1 by Falkirks for API(s) 1.4.0
